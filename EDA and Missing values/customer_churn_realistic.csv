@@ -1,0 +1,1301 @@
+age,monthly_charges,total_usage_gb,tenure_months,support_calls,late_payments,gender,contract_type,payment_method,internet_type,region,customer_segment,churn
+56.0,,222.96009209233276,48.0,13.0,4.0,Male,Quarterly,Net Banking,DSL,North,Premium,No
+,2295.512167415586,309.572522409552,,4.0,5.0,,Monthly,Debit Card,DSL,East,Basic,
+46.0,,46.31472206974473,35.0,1.0,4.0,Female,Yearly,Debit Card,Fiber,,Standard,Yes
+,2008.387587406554,441.7961023616327,86.0,7.0,0.0,Male,Yearly,Credit Card,,South,Standard,Yes
+60.0,4112.840518691051,,38.0,13.0,2.0,Female,Quarterly,Net Banking,Mobile,,Basic,No
+25.0,520.8441035207129,255.0773529204359,31.0,1.0,0.0,Male,Yearly,Net Banking,DSL,North,Basic,Yes
+,2000.7462726101487,483.7276745532894,78.0,9.0,4.0,Female,Monthly,Credit Card,Fiber,West,Standard,
+56.0,,211.79168474117435,24.0,11.0,4.0,Female,Yearly,Debit Card,Mobile,,,Yes
+36.0,,,114.0,5.0,5.0,Female,Yearly,Net Banking,DSL,,Premium,Yes
+,,335.6203994077954,49.0,7.0,7.0,Male,Quarterly,Credit Card,Mobile,North,Basic,No
+,,319.16228026070104,96.0,5.0,9.0,,Yearly,Debit Card,Fiber,,Standard,No
+28.0,,87.14767317141357,100.0,3.0,0.0,,Quarterly,,DSL,South,Standard,Yes
+,3818.755616493868,441.55424036079876,32.0,12.0,3.0,,Quarterly,Net Banking,Mobile,North,,No
+,2534.9807340041325,216.6073955207045,55.0,3.0,9.0,Female,Yearly,Credit Card,Mobile,,,
+,1510.7217032299188,85.30553586232728,79.0,5.0,0.0,,Monthly,UPI,,North,Premium,Yes
+41.0,2535.9778225971204,11.240722388000725,107.0,13.0,,,Quarterly,Debit Card,Mobile,North,,No
+20.0,,282.07906340099936,58.0,,6.0,Female,,,Mobile,West,Standard,No
+,1293.741439278005,,99.0,12.0,,,Quarterly,UPI,Fiber,West,Basic,
+19.0,2742.654977327659,361.0800430727335,3.0,3.0,4.0,Male,Monthly,Debit Card,Fiber,South,Basic,Yes
+41.0,2385.1645227704657,445.67773624381203,80.0,7.0,6.0,Male,,,Fiber,South,,
+,4616.806554806451,44.306259398299616,69.0,8.0,,Male,Quarterly,Credit Card,Fiber,West,Standard,No
+,2130.772546024849,367.09076271847937,85.0,0.0,3.0,,Monthly,Debit Card,Fiber,East,,No
+55.0,,97.7689123283032,10.0,12.0,6.0,Male,Yearly,,Fiber,North,Standard,No
+19.0,3345.1892956378865,429.79764131279615,83.0,3.0,2.0,Female,Yearly,,DSL,,,Yes
+,,410.4364393615198,25.0,3.0,1.0,Male,Quarterly,,Fiber,East,Premium,Yes
+50.0,,272.6929087178445,68.0,1.0,9.0,,Monthly,Debit Card,Mobile,West,Basic,Yes
+29.0,,356.5701853185392,,5.0,1.0,Female,,UPI,DSL,South,,Yes
+,4824.816428612548,,29.0,2.0,0.0,Female,Yearly,,Mobile,North,Premium,Yes
+61.0,1168.9822748890083,238.22810997174324,19.0,6.0,,,Yearly,Net Banking,Fiber,South,Basic,No
+42.0,,411.7102643666835,43.0,12.0,5.0,Male,Quarterly,,Fiber,,,No
+66.0,884.0735063538973,232.33627260074087,66.0,,,,Quarterly,UPI,,East,Basic,Yes
+44.0,4985.934133306763,182.11014133609368,74.0,10.0,8.0,Male,Yearly,Credit Card,Mobile,South,Premium,Yes
+,2759.8775464905916,249.63516138889844,,4.0,3.0,Female,Yearly,UPI,Mobile,South,,Yes
+45.0,3179.232577940197,414.9833799564231,43.0,3.0,0.0,,Monthly,Credit Card,DSL,West,Premium,
+33.0,801.8441482479236,170.927983448582,25.0,4.0,5.0,Female,Monthly,Credit Card,Fiber,South,Basic,
+32.0,3874.8221167963,91.01198860219318,20.0,7.0,4.0,Female,Monthly,,Mobile,South,Standard,No
+,1444.575168930136,357.44694006373646,48.0,2.0,9.0,Male,Quarterly,,Fiber,West,Premium,Yes
+68.0,4541.244302483212,413.8592152905005,83.0,13.0,5.0,Female,Yearly,Debit Card,Mobile,,,Yes
+,1423.1283821690322,54.815551869149,87.0,6.0,,Male,Quarterly,,Fiber,,Premium,Yes
+,1358.0947429864996,,24.0,14.0,1.0,Female,Yearly,UPI,DSL,South,,
+,664.473505316427,75.27613493169198,,13.0,,,Monthly,Net Banking,Fiber,North,Standard,
+54.0,,177.23099873317247,110.0,5.0,0.0,,Monthly,UPI,,East,Standard,
+,3041.7850996817738,227.92373455817926,98.0,,6.0,Female,Monthly,Net Banking,,West,Premium,Yes
+24.0,,375.6690367968367,55.0,0.0,6.0,Female,Monthly,UPI,DSL,East,Basic,
+,3989.8742751275477,,28.0,12.0,9.0,,Yearly,Credit Card,DSL,West,Basic,No
+,2539.7997563661243,312.3596409018234,69.0,6.0,,Female,,UPI,Fiber,,Basic,No
+,2859.75621197411,179.42559857177892,63.0,13.0,9.0,Female,Yearly,UPI,Mobile,,Standard,No
+,2483.432361222027,421.51653877695617,59.0,12.0,,Male,Yearly,Net Banking,DSL,East,Premium,
+21.0,2303.4337739389666,238.28714786209147,5.0,6.0,,,,,DSL,,,Yes
+42.0,3018.3814908869804,489.6569443175015,51.0,13.0,6.0,Female,Monthly,Net Banking,Fiber,East,Premium,Yes
+31.0,1198.5811066882063,318.9003584563897,21.0,,,Female,Monthly,,DSL,East,Standard,Yes
+67.0,,67.50104707442885,12.0,11.0,4.0,Female,Quarterly,Debit Card,DSL,North,,No
+26.0,4378.035294560828,,50.0,0.0,1.0,,Yearly,,Mobile,West,Premium,No
+43.0,4757.519579601348,165.926487638691,4.0,8.0,6.0,Female,Monthly,UPI,Mobile,East,Premium,No
+,2179.8919232588883,,,5.0,9.0,Female,Yearly,Credit Card,Mobile,,Standard,
+37.0,1718.351029145992,39.472368340390844,113.0,14.0,0.0,Female,Quarterly,Credit Card,Fiber,North,Basic,No
+45.0,3397.9979445755707,91.5663114020999,42.0,11.0,6.0,,Yearly,UPI,DSL,East,Standard,No
+,,428.58994315836424,84.0,1.0,5.0,Female,Monthly,,Fiber,East,,Yes
+,614.2386004715519,,38.0,4.0,6.0,,Yearly,UPI,DSL,,Premium,
+,,419.3353569952553,25.0,12.0,9.0,,Yearly,Credit Card,DSL,East,Premium,No
+25.0,3721.875029813289,143.24166378493317,14.0,10.0,,,Monthly,Debit Card,DSL,East,Basic,
+64.0,3465.157738595681,323.2265454790603,,3.0,2.0,Female,Monthly,Debit Card,Mobile,East,,No
+52.0,621.9319662656757,348.60453388736636,32.0,6.0,6.0,Female,Yearly,Credit Card,Fiber,,Premium,
+31.0,,,11.0,7.0,1.0,,,UPI,Fiber,South,Basic,Yes
+34.0,1539.8365846463212,156.128784964882,61.0,,0.0,Male,Quarterly,Net Banking,DSL,East,Basic,Yes
+53.0,3523.5173461942777,110.25896630369257,18.0,13.0,8.0,Male,Monthly,,Fiber,East,Premium,No
+,588.6974198946386,21.428730508400978,27.0,14.0,8.0,Female,Yearly,UPI,Mobile,East,Standard,Yes
+57.0,968.4886189305823,155.45346861415828,55.0,10.0,6.0,Female,Monthly,Credit Card,Fiber,North,Basic,
+21.0,4099.622384179353,328.3155813129851,54.0,0.0,6.0,Female,Quarterly,,,South,Premium,
+19.0,,469.4608851319989,82.0,4.0,,Female,Yearly,Credit Card,,North,Basic,Yes
+23.0,3437.357485333436,436.2462187202108,87.0,,9.0,Male,Yearly,,Mobile,North,,No
+59.0,,384.2020643849748,75.0,2.0,1.0,Male,Yearly,,DSL,South,Premium,No
+,947.4862674170532,395.28143491038287,,0.0,6.0,Male,Monthly,Net Banking,Fiber,North,Basic,Yes
+46.0,1594.2748594975433,334.16752722061767,44.0,11.0,8.0,Male,Quarterly,Net Banking,DSL,North,Basic,No
+35.0,3750.2011933504664,133.8419944951715,5.0,2.0,,Female,Monthly,,Fiber,North,Basic,No
+43.0,,454.0615401993858,,13.0,3.0,Female,Yearly,Debit Card,Fiber,South,,Yes
+,4235.989390551462,337.01249439338784,41.0,5.0,,,Quarterly,Credit Card,Mobile,,,Yes
+,2287.325883283047,,59.0,,6.0,,Yearly,,DSL,West,,Yes
+27.0,3506.383114567908,59.93978726067313,89.0,6.0,9.0,Male,Yearly,UPI,,,,Yes
+,1422.4293293711944,226.29249418418058,105.0,7.0,6.0,,Monthly,Debit Card,DSL,South,Basic,No
+,1819.1647861745596,232.87734424495352,54.0,12.0,9.0,Male,Yearly,Credit Card,DSL,West,Basic,Yes
+48.0,4533.511183345039,432.95898671372163,74.0,,1.0,,Quarterly,,Mobile,South,,Yes
+65.0,,275.5908689929553,22.0,3.0,3.0,Female,,Debit Card,DSL,South,Standard,Yes
+,,193.2982717403528,83.0,2.0,4.0,Male,Yearly,,DSL,West,Standard,No
+25.0,1435.4881481571229,488.5161626127764,65.0,4.0,0.0,,Monthly,,Fiber,North,,No
+31.0,619.3949174321888,59.80669369652626,64.0,8.0,0.0,Male,Quarterly,Debit Card,DSL,East,Basic,
+,,214.1614720144126,71.0,12.0,9.0,Female,Monthly,,DSL,West,Premium,
+57.0,,,4.0,5.0,,Female,Yearly,,,West,,No
+38.0,2396.4104776662407,371.2525397796305,65.0,14.0,9.0,Female,Monthly,Net Banking,Mobile,,Basic,Yes
+33.0,4517.022699846387,459.44789333857955,,8.0,2.0,,Monthly,Credit Card,DSL,,Standard,No
+62.0,4178.496027822985,143.61847812749227,,14.0,7.0,Female,Monthly,,,South,,
+35.0,2038.178082640442,429.87913001556484,76.0,,8.0,,,Net Banking,Fiber,South,Standard,No
+64.0,,149.6480240786394,22.0,1.0,0.0,Female,,,Mobile,East,Standard,
+,,455.83123001373804,86.0,,1.0,Female,Yearly,Credit Card,DSL,East,Standard,Yes
+43.0,3156.3272413166346,378.21114228040807,114.0,4.0,9.0,Female,,,DSL,,Premium,No
+42.0,1706.286383702943,403.4288545365121,47.0,11.0,1.0,Male,Monthly,Credit Card,Fiber,West,,Yes
+62.0,3308.670085321103,,81.0,10.0,3.0,Male,Monthly,Net Banking,,West,Premium,No
+58.0,2342.352434860582,,,8.0,1.0,,Quarterly,,Fiber,,Standard,
+,2984.212313833911,364.70214107481,46.0,7.0,6.0,Male,Monthly,Credit Card,Mobile,West,Standard,Yes
+32.0,2462.569381108925,155.851792216136,,6.0,8.0,Male,Quarterly,Credit Card,,North,,
+62.0,1825.0959179386296,415.55035910512925,50.0,0.0,6.0,,Yearly,Credit Card,Mobile,East,Premium,
+18.0,4768.039881329705,144.3529932153903,20.0,3.0,5.0,Male,Quarterly,Credit Card,DSL,,Standard,
+,3936.2260737189235,437.01315058523335,50.0,11.0,9.0,Male,Monthly,UPI,,West,Premium,No
+24.0,1130.5092909490363,60.72729325390882,112.0,6.0,,,Quarterly,Credit Card,DSL,,Standard,No
+26.0,4408.105891540607,353.3245588430939,33.0,,9.0,Male,Yearly,Net Banking,Fiber,,Basic,Yes
+41.0,2693.4403921228113,272.6457459392306,119.0,6.0,8.0,Female,Monthly,Net Banking,,East,Premium,
+18.0,4525.485021023411,,59.0,14.0,4.0,Male,Yearly,UPI,Fiber,North,Basic,No
+61.0,4099.348651762919,124.73744498812529,43.0,5.0,4.0,Male,Yearly,Debit Card,Mobile,East,,No
+25.0,,11.139997957270822,79.0,,,Female,Quarterly,Debit Card,Fiber,,Standard,
+41.0,,237.04014290493038,12.0,10.0,8.0,Female,Yearly,Net Banking,DSL,North,,No
+28.0,1709.0481172322573,154.1263040762002,40.0,12.0,,Female,Monthly,Net Banking,Mobile,South,Basic,Yes
+68.0,,,118.0,5.0,,Female,Yearly,,DSL,North,Standard,Yes
+34.0,3350.6519892176625,152.1327148157655,,9.0,7.0,Male,Yearly,Debit Card,,,,Yes
+25.0,1660.4945844494102,,,2.0,0.0,,Quarterly,Debit Card,DSL,East,Standard,No
+52.0,1127.1023333277085,372.8806333721437,38.0,3.0,0.0,Female,Yearly,Credit Card,DSL,West,Standard,No
+,4257.186065596847,,3.0,,,,Quarterly,Credit Card,Mobile,West,Premium,Yes
+50.0,4929.809813165984,451.9330226200337,28.0,2.0,4.0,Male,Quarterly,Credit Card,Mobile,South,Basic,
+22.0,2865.6058203620864,426.8706178236348,56.0,0.0,8.0,Male,Monthly,UPI,,East,Basic,No
+59.0,,335.5633181970712,,14.0,,,Monthly,Net Banking,Fiber,West,Standard,Yes
+,1725.3829693371604,298.64467720315525,94.0,9.0,,Male,,UPI,DSL,East,Premium,Yes
+,,446.68973657912784,13.0,4.0,7.0,Female,,,,South,Basic,No
+,4614.344629522246,96.73843886671365,,14.0,,,Quarterly,Net Banking,DSL,South,,Yes
+,,44.08973528446016,66.0,0.0,,,Yearly,Credit Card,Mobile,,,
+26.0,3094.324139814141,123.55753410522136,37.0,,0.0,Female,Monthly,UPI,Mobile,,,Yes
+,1733.248493092427,398.31624795659417,49.0,1.0,0.0,,Monthly,UPI,Fiber,,Basic,Yes
+,,,102.0,12.0,4.0,Male,Monthly,Credit Card,,North,Standard,No
+,3431.391747583389,293.4893833663274,66.0,3.0,,Male,Yearly,,Fiber,South,Standard,No
+50.0,4233.838116682407,497.7415705146984,36.0,5.0,7.0,Male,Monthly,Credit Card,Mobile,South,Standard,
+65.0,1428.8957229227144,428.569566449582,,7.0,9.0,,Yearly,,,South,Standard,No
+,549.4812289631622,263.11561607657677,26.0,12.0,4.0,Female,Quarterly,Net Banking,Mobile,South,Basic,No
+41.0,1115.9853353096328,36.50225009688796,,2.0,,,Quarterly,,Fiber,East,Premium,Yes
+54.0,4550.083888316472,,,0.0,1.0,Male,Quarterly,Debit Card,Mobile,West,Standard,Yes
+,4432.5053490313185,301.4943615477192,108.0,2.0,,Female,Yearly,Credit Card,DSL,West,,No
+61.0,3188.358959766387,,40.0,,7.0,Female,Monthly,,,,Basic,
+,,,,2.0,9.0,Female,Monthly,Debit Card,Mobile,,Standard,
+39.0,3492.6650354581498,455.26527562111323,,4.0,,Male,Monthly,,Fiber,,Standard,Yes
+,1289.1707538055232,336.25413015434884,,,1.0,Male,Monthly,,Fiber,West,Premium,Yes
+52.0,4614.853756662319,415.496965661794,8.0,11.0,,,Monthly,UPI,Mobile,,,No
+,2384.467362014329,440.09455563972233,29.0,11.0,3.0,Female,Yearly,UPI,Mobile,South,Basic,No
+52.0,2224.1233771227385,,40.0,3.0,4.0,,Quarterly,,Fiber,East,Premium,
+54.0,2835.129673772769,261.13594411874544,90.0,12.0,1.0,Male,,Debit Card,Fiber,North,,Yes
+,711.3468504877477,218.06156810889016,30.0,3.0,,Male,Quarterly,Net Banking,Mobile,North,Premium,No
+31.0,1248.2751594023573,161.88856095660404,81.0,8.0,8.0,Female,Yearly,,DSL,North,,No
+20.0,3821.151273918667,220.1250006250623,84.0,6.0,0.0,Female,Yearly,Credit Card,Fiber,West,Standard,
+18.0,872.5940056630691,,116.0,,3.0,,Monthly,Debit Card,Fiber,,,No
+,3214.184492598747,302.9520983524901,55.0,2.0,1.0,Female,Yearly,Net Banking,DSL,,Standard,
+,1604.0709935659443,446.79902852764883,16.0,5.0,3.0,Female,Quarterly,UPI,,North,Basic,No
+31.0,2251.8302631888946,224.47310711769794,,2.0,7.0,,Monthly,Net Banking,Mobile,East,,Yes
+56.0,,305.5093414657832,62.0,5.0,7.0,Female,,UPI,DSL,West,Standard,Yes
+44.0,,317.4972387805344,107.0,10.0,8.0,Female,Quarterly,Credit Card,Mobile,West,Premium,Yes
+,3735.7065733291047,297.89009534163114,7.0,,4.0,Female,Monthly,Net Banking,Mobile,,,Yes
+32.0,1837.0477203042876,352.8037176773306,80.0,10.0,6.0,Female,Monthly,,Fiber,East,,No
+32.0,3048.8208813360375,122.5295668455291,,12.0,2.0,Male,Quarterly,Debit Card,Fiber,,Standard,
+43.0,2642.2268098959485,,59.0,12.0,9.0,Male,Monthly,UPI,Fiber,,,Yes
+59.0,3486.5202441319166,56.5912773901321,,11.0,3.0,Female,Monthly,Debit Card,DSL,North,Premium,
+,,195.3331071841822,56.0,,9.0,Female,Quarterly,Net Banking,Mobile,West,Standard,Yes
+,3796.5744374461265,246.3951989675259,48.0,5.0,8.0,,Yearly,Credit Card,,,,No
+,1467.2317036584054,327.8510084750089,27.0,,9.0,Male,Quarterly,,Fiber,South,Basic,No
+56.0,640.324107775781,475.51287103017074,53.0,3.0,9.0,Male,Monthly,Net Banking,,East,Standard,
+,1680.188199349213,302.32227794143614,87.0,14.0,0.0,,,,DSL,,Standard,Yes
+69.0,,373.07898850739707,88.0,4.0,1.0,Male,Monthly,Credit Card,Mobile,South,Standard,Yes
+49.0,731.4161606791265,255.60169945012535,73.0,12.0,4.0,,Monthly,UPI,DSL,East,Premium,Yes
+21.0,,318.881495531284,,5.0,,Female,Quarterly,,Mobile,South,,Yes
+47.0,3185.7928201260015,40.11144698621785,51.0,10.0,,,Monthly,Debit Card,DSL,South,,Yes
+,2004.0975086763237,130.92383251671424,84.0,2.0,,,Yearly,UPI,Fiber,,Basic,
+40.0,3969.1049168561985,184.11728113654365,37.0,,,Female,Monthly,Credit Card,DSL,East,,No
+56.0,979.6921391019731,,106.0,3.0,2.0,Female,Quarterly,Credit Card,,South,,No
+62.0,838.1200178111394,27.59612902367995,,7.0,0.0,Female,Yearly,Debit Card,,West,,No
+32.0,3776.8494029162152,74.31192828889225,111.0,9.0,0.0,Male,Yearly,Credit Card,Mobile,,,No
+60.0,2729.710922927893,142.02308235669636,95.0,,0.0,Female,Monthly,UPI,Mobile,West,,Yes
+46.0,,,,2.0,7.0,Male,Quarterly,Net Banking,Fiber,North,,
+,2456.723023716858,169.01676851601013,57.0,9.0,2.0,Female,,UPI,DSL,West,,Yes
+30.0,1608.8091495759807,243.61032376548084,8.0,6.0,0.0,Female,Monthly,Debit Card,DSL,East,Premium,No
+,4185.960429533899,102.06836780550451,79.0,10.0,,Male,Quarterly,Debit Card,DSL,South,,Yes
+24.0,4097.371455360407,307.3361351825053,95.0,12.0,9.0,Male,Quarterly,Debit Card,Mobile,South,Premium,Yes
+68.0,3626.1341188449205,143.93819168040727,,11.0,,,Monthly,Credit Card,DSL,East,Basic,Yes
+39.0,1724.653117534832,107.46132632702125,94.0,,7.0,Male,Yearly,UPI,Mobile,South,Standard,Yes
+,3156.038000910892,260.70345108075963,110.0,3.0,3.0,,Monthly,Net Banking,DSL,West,,Yes
+19.0,2124.3825362301204,,,7.0,3.0,Female,Yearly,UPI,Fiber,South,Standard,
+59.0,912.1193299698537,,103.0,2.0,,Male,Monthly,Net Banking,Fiber,South,Basic,No
+62.0,4627.911089580092,113.4390605054196,53.0,6.0,5.0,Male,Quarterly,UPI,Mobile,,,Yes
+23.0,1115.6838391353263,23.177074437906466,119.0,2.0,6.0,,Yearly,Debit Card,Mobile,West,,Yes
+45.0,4776.068092193611,58.47274829469223,,11.0,3.0,Male,Quarterly,,Fiber,,Premium,No
+,,172.73602142268203,49.0,14.0,7.0,,Quarterly,UPI,Fiber,North,Premium,Yes
+61.0,1333.0981797737884,402.27991139200736,17.0,14.0,5.0,Male,Quarterly,Credit Card,DSL,,Basic,
+,2938.5542632026118,288.1640784678039,64.0,6.0,0.0,Male,Quarterly,,Fiber,West,Basic,No
+,,258.77052434842614,,13.0,0.0,Male,Quarterly,,Mobile,North,,Yes
+47.0,3795.0119888430254,150.2769674880202,94.0,10.0,8.0,Male,Monthly,Debit Card,Fiber,,Premium,
+28.0,4129.525165376524,466.2180911192441,29.0,9.0,9.0,,Yearly,Net Banking,Mobile,West,,No
+,3464.525150198228,201.52244541240987,19.0,9.0,5.0,Female,Monthly,,Mobile,,Premium,Yes
+,3615.244540330336,48.11091956390689,110.0,10.0,9.0,Female,Monthly,Credit Card,DSL,West,,
+,4321.380432043937,310.4479254783116,11.0,10.0,7.0,,Monthly,,DSL,West,,
+50.0,1623.5060398663368,61.3500047709177,98.0,5.0,6.0,,Quarterly,Credit Card,,North,Standard,No
+,2702.412336394132,,,1.0,,Female,Monthly,Credit Card,,East,Standard,Yes
+,,256.16890966531537,71.0,10.0,,Male,Yearly,UPI,Fiber,South,,
+,4944.506035984911,437.74014971916205,,2.0,6.0,,Monthly,,DSL,South,Premium,No
+30.0,4748.267028589759,249.30555726835874,58.0,5.0,8.0,,Quarterly,Net Banking,Fiber,East,,No
+58.0,677.4206511582765,352.6180891856738,,13.0,,Male,Yearly,Debit Card,DSL,West,Premium,No
+,3675.088276320598,496.44433530453983,20.0,,9.0,,Yearly,,DSL,North,Standard,No
+56.0,4663.617428370496,70.08711434950091,50.0,5.0,6.0,Male,Yearly,Net Banking,Mobile,,Basic,Yes
+,1312.5890530730007,140.99210513216215,102.0,0.0,0.0,Male,Yearly,UPI,Fiber,,Basic,No
+25.0,3055.7535374868326,,88.0,,9.0,Female,Monthly,Credit Card,Mobile,,,No
+44.0,4619.697339146188,213.80494837672154,10.0,11.0,,Female,Quarterly,Credit Card,DSL,North,,Yes
+,652.7569036360948,,32.0,0.0,,Male,Yearly,Net Banking,Fiber,East,Premium,Yes
+,3638.3912026107796,454.2674462654947,52.0,2.0,2.0,Female,Yearly,Net Banking,DSL,,Basic,No
+50.0,1838.0705331764784,358.4461590110939,15.0,7.0,,Male,Quarterly,Debit Card,Mobile,West,,Yes
+,,,101.0,7.0,3.0,Female,,Net Banking,Fiber,South,Basic,
+59.0,4869.762103244155,158.13949534207714,84.0,10.0,9.0,Female,Yearly,,Mobile,,Standard,Yes
+61.0,4749.199201010452,412.7762401895409,3.0,3.0,1.0,,Monthly,UPI,DSL,North,Standard,No
+,2633.963974958587,477.75495318506955,37.0,5.0,0.0,Male,Monthly,,DSL,West,,Yes
+32.0,4379.19192945191,411.49314986236215,40.0,14.0,9.0,Male,Monthly,,DSL,South,,No
+49.0,4300.472293407816,5.774727069779088,72.0,7.0,0.0,,Monthly,Debit Card,Fiber,North,,No
+49.0,1935.9521295946504,,40.0,6.0,7.0,Male,Yearly,Net Banking,Mobile,East,Basic,Yes
+,,,108.0,10.0,1.0,Male,Yearly,,Mobile,West,,
+58.0,666.5343562197168,132.5155740651923,56.0,6.0,9.0,Female,Monthly,Net Banking,DSL,South,Standard,
+69.0,3183.214453169239,34.46472667214698,23.0,,4.0,Female,Monthly,UPI,Mobile,East,,
+66.0,,,,3.0,3.0,Male,,Credit Card,Fiber,South,Standard,
+66.0,1042.5509859977547,344.8620071788404,,8.0,,Male,Quarterly,,DSL,,Basic,Yes
+,846.2894073314412,61.67138084262303,110.0,11.0,1.0,Male,Quarterly,UPI,DSL,North,,Yes
+29.0,3633.299491451629,195.00024710726484,,,9.0,Male,Yearly,Credit Card,DSL,,,Yes
+56.0,2029.4373369562977,,8.0,,8.0,Female,,Net Banking,Fiber,South,,Yes
+19.0,3761.4504718794265,187.68124577165372,93.0,13.0,6.0,Female,Yearly,UPI,DSL,South,Basic,Yes
+20.0,794.1035335952406,64.90737524017055,,11.0,6.0,,Yearly,Debit Card,DSL,South,Premium,Yes
+,1918.8065202377466,,,10.0,0.0,Male,,UPI,DSL,,Basic,Yes
+,2927.7108156890176,,60.0,2.0,1.0,Male,Yearly,Debit Card,DSL,West,Standard,Yes
+66.0,4058.254241775336,40.14879394396146,,4.0,3.0,Female,Quarterly,Net Banking,Mobile,South,Premium,
+34.0,,44.689106970542205,39.0,4.0,3.0,Male,Monthly,UPI,DSL,South,Standard,Yes
+66.0,3316.5111939665408,180.61178945881218,28.0,13.0,2.0,,Monthly,,Fiber,East,,Yes
+19.0,4486.8998670628425,471.1542272513679,49.0,4.0,6.0,Female,,Credit Card,,South,Standard,No
+19.0,3271.3843468203704,335.94346012784246,36.0,7.0,7.0,Female,Quarterly,UPI,DSL,,Basic,No
+45.0,,340.94162855291955,13.0,8.0,1.0,,Monthly,,Mobile,East,Premium,No
+40.0,609.8035170044211,,96.0,12.0,3.0,,Quarterly,Credit Card,DSL,East,,
+,4415.444932554185,298.8620916482265,36.0,8.0,,,Quarterly,Debit Card,,East,Standard,No
+49.0,595.7123488267421,10.014936093732972,101.0,,1.0,,Quarterly,UPI,Fiber,,Basic,
+50.0,4436.157527078897,319.8675429727234,26.0,5.0,5.0,Male,Monthly,UPI,Mobile,East,Standard,Yes
+18.0,2880.217103122454,457.0770390502372,86.0,5.0,3.0,Female,Monthly,Net Banking,DSL,South,Standard,No
+36.0,4725.804643308033,308.2238668306855,4.0,8.0,5.0,,Monthly,Credit Card,Fiber,North,Premium,
+19.0,4094.5245609814942,437.4808037658408,95.0,3.0,1.0,Female,Yearly,UPI,DSL,North,Basic,No
+,4990.703497400019,363.36666245571644,82.0,5.0,3.0,Male,Quarterly,,Mobile,North,Basic,Yes
+43.0,2078.203169532696,64.67641611982668,,3.0,5.0,Female,Yearly,Credit Card,Fiber,,Premium,No
+49.0,3952.347300190071,451.71438710649164,38.0,10.0,4.0,Female,,UPI,,North,Premium,
+23.0,2308.6891112415897,37.889702956108565,88.0,0.0,,Male,Monthly,Credit Card,Mobile,,,No
+,2659.44029136759,269.31389891114304,87.0,6.0,7.0,Male,Quarterly,,Mobile,,,
+21.0,3323.7745844826654,,22.0,13.0,6.0,Female,Quarterly,Credit Card,Fiber,East,Premium,Yes
+,4431.547013838524,10.794772311797512,2.0,9.0,,Female,,Net Banking,Fiber,West,Premium,Yes
+34.0,4928.375611396828,,31.0,10.0,5.0,,Quarterly,,Mobile,South,Basic,
+55.0,,151.04515028880735,119.0,,3.0,Male,Monthly,,DSL,South,Premium,Yes
+41.0,2379.950519753002,245.5702444298135,11.0,5.0,4.0,Female,Quarterly,,Fiber,East,Standard,
+22.0,2396.1065102468156,290.71394393360265,92.0,8.0,4.0,Female,Quarterly,,Mobile,East,Standard,No
+69.0,3819.120357150012,26.650840792928943,46.0,,6.0,Male,,Net Banking,DSL,,,
+51.0,1574.4971559573605,65.88663108625408,96.0,12.0,4.0,Female,Yearly,Credit Card,Fiber,West,Premium,No
+23.0,997.133509091276,281.52798624296054,,6.0,2.0,Male,Quarterly,,Fiber,,Standard,
+,,174.86783982046583,69.0,1.0,9.0,Female,Quarterly,Debit Card,Mobile,East,,No
+28.0,1792.5754624433678,365.94087633697677,64.0,11.0,4.0,,Yearly,UPI,DSL,North,,No
+65.0,,327.8843660530101,102.0,10.0,6.0,Male,,Credit Card,Fiber,,Premium,Yes
+,1551.2348797245947,423.5741596800039,10.0,14.0,4.0,Female,,Debit Card,,,Basic,Yes
+,,347.7839492012665,,8.0,4.0,Female,Yearly,,DSL,North,,No
+26.0,,,110.0,9.0,8.0,Male,Monthly,UPI,Fiber,West,Basic,Yes
+,,338.118478085244,24.0,,2.0,Female,Monthly,,,North,Standard,No
+,2424.9791018113806,141.31368125643218,99.0,5.0,5.0,Female,Quarterly,Credit Card,Fiber,North,Standard,Yes
+46.0,2229.4699122185675,156.62518189521526,44.0,12.0,0.0,Female,Monthly,,DSL,West,,No
+20.0,3558.4127721188142,395.5476541607927,,2.0,,,Quarterly,UPI,,West,Premium,Yes
+37.0,,,,0.0,4.0,,Monthly,Net Banking,Mobile,West,,Yes
+,4774.825327776014,400.1982685565845,62.0,3.0,7.0,,Yearly,Credit Card,Fiber,,,Yes
+,4038.552564869984,,87.0,,4.0,Male,,Credit Card,Fiber,North,,
+43.0,902.3495104051678,,,13.0,8.0,,Monthly,,Fiber,East,Premium,No
+,2379.1134910321775,458.73444174139763,65.0,2.0,5.0,Female,Monthly,UPI,DSL,West,,Yes
+36.0,,218.33768415408164,119.0,13.0,,Male,Quarterly,Credit Card,Mobile,West,,No
+,4751.2941003113465,162.83907506896372,95.0,11.0,,Male,,Debit Card,,North,,Yes
+49.0,2603.306800624414,293.18837956408635,95.0,0.0,,Female,Quarterly,,DSL,,Standard,Yes
+24.0,,188.73034960162565,106.0,2.0,2.0,Female,Yearly,,Fiber,North,Premium,
+,1251.6527574143386,302.5317125661153,57.0,13.0,6.0,Male,Yearly,UPI,DSL,,,Yes
+58.0,4960.2588176163945,,55.0,13.0,6.0,Male,Yearly,,Fiber,,,Yes
+,1542.5226562254952,345.76048415360776,106.0,3.0,9.0,Female,Yearly,Net Banking,Mobile,West,Standard,No
+,4742.292983608066,190.40367907496008,53.0,12.0,,Female,Quarterly,,DSL,South,,Yes
+56.0,3423.409920465658,87.59579984088265,,12.0,6.0,Female,Yearly,Credit Card,DSL,East,,
+,3234.815576954866,,,14.0,,Male,Yearly,Credit Card,DSL,East,,
+57.0,2807.098299574289,,,13.0,8.0,Female,Yearly,,,West,Standard,Yes
+18.0,1538.014152729914,445.59803241598513,22.0,,9.0,Male,,UPI,Fiber,West,Premium,Yes
+,1294.3761440247872,176.2093430652394,13.0,8.0,9.0,Male,Monthly,Net Banking,DSL,West,,No
+,1492.1879408157893,81.45757487554528,,2.0,,,Quarterly,UPI,DSL,East,,Yes
+42.0,,17.596641153346685,48.0,5.0,,,Quarterly,Credit Card,Mobile,South,Basic,Yes
+67.0,4008.13013105039,324.6820812118097,18.0,9.0,2.0,Female,Yearly,,Mobile,East,Standard,Yes
+,2075.5636662502857,320.2666471400979,,,2.0,Female,Monthly,,Mobile,West,Standard,Yes
+,760.2920445352836,173.59906245773936,76.0,14.0,0.0,Male,Quarterly,Debit Card,Mobile,West,,Yes
+47.0,4860.961835633651,,,4.0,6.0,Female,Quarterly,UPI,Mobile,South,Standard,Yes
+59.0,4477.036482335416,207.76630297313986,17.0,5.0,3.0,Male,Yearly,Debit Card,Fiber,North,,Yes
+52.0,,159.05266005637984,15.0,3.0,9.0,Male,Yearly,,Mobile,North,Standard,
+24.0,,340.1747166688296,106.0,9.0,1.0,Male,Quarterly,Debit Card,,East,,Yes
+33.0,,,15.0,5.0,,Male,Quarterly,Debit Card,,North,,No
+,2283.0890850619644,,79.0,6.0,4.0,Male,Monthly,,Fiber,North,Standard,Yes
+,3912.073140668411,112.8568143562201,63.0,8.0,5.0,,Quarterly,Credit Card,Mobile,East,Basic,
+,3632.092781242065,494.077803247018,119.0,9.0,8.0,,Quarterly,UPI,Mobile,,Basic,
+66.0,1192.5315785293478,229.73080249207686,39.0,6.0,3.0,Male,Yearly,Debit Card,Mobile,,,No
+19.0,4171.24906245778,345.69574671121734,13.0,,1.0,Female,Quarterly,Net Banking,DSL,,Premium,Yes
+18.0,1509.9825732649729,74.57371895128858,81.0,,4.0,Male,Yearly,Net Banking,DSL,East,Premium,No
+,1507.179266701804,245.36690133140192,32.0,1.0,2.0,Female,Quarterly,Credit Card,DSL,,Standard,No
+29.0,2916.384903020361,,9.0,0.0,1.0,Female,Quarterly,Credit Card,Mobile,,Premium,No
+22.0,3168.2297067876643,255.20028336567273,40.0,8.0,0.0,Female,Quarterly,,DSL,East,,Yes
+54.0,3110.38793527015,482.1886165232627,20.0,9.0,,,Monthly,Credit Card,Mobile,West,Standard,No
+,911.6907682898969,195.18232292797111,90.0,9.0,1.0,Male,Yearly,Net Banking,Fiber,North,,Yes
+26.0,4448.573881836712,24.303026224581235,91.0,8.0,5.0,Male,Monthly,UPI,Mobile,North,Standard,No
+,,20.32311650507505,85.0,6.0,7.0,Male,,UPI,DSL,North,Standard,
+52.0,,197.0534461737004,,12.0,2.0,Male,Monthly,Debit Card,,North,Basic,Yes
+36.0,4499.366359410397,,77.0,1.0,8.0,Female,Yearly,,Mobile,,,Yes
+,4800.43174203389,16.559287682452027,80.0,,8.0,Female,Quarterly,,Fiber,North,Premium,
+33.0,,,73.0,10.0,,Female,Monthly,Credit Card,Fiber,,Standard,No
+,4142.822336261952,231.9688893965359,63.0,3.0,7.0,Male,Monthly,Credit Card,Fiber,South,,No
+37.0,3448.5889128755975,148.176162126464,76.0,0.0,9.0,Female,Yearly,Credit Card,Mobile,,Basic,Yes
+,2978.858167741127,450.54117559315796,44.0,0.0,4.0,Male,Monthly,Debit Card,DSL,North,Standard,Yes
+50.0,891.4404196013456,62.48878529926018,38.0,,3.0,Female,Yearly,UPI,,,,
+41.0,,478.179820332883,83.0,4.0,9.0,Female,Quarterly,,DSL,,,No
+69.0,,160.41352510178965,60.0,11.0,4.0,Female,Quarterly,UPI,Mobile,West,Basic,Yes
+28.0,,444.7598177927972,71.0,1.0,3.0,Female,Monthly,Credit Card,,,,Yes
+66.0,3755.390511598632,303.4567238573335,99.0,3.0,7.0,Female,Quarterly,Net Banking,,North,Standard,No
+,2731.440807854469,414.2201430720363,48.0,0.0,3.0,Male,Quarterly,Debit Card,DSL,North,Premium,
+53.0,864.7079715844156,492.0865157891798,18.0,3.0,9.0,,Monthly,,Mobile,East,Standard,No
+55.0,1490.824408774151,147.76069172027914,16.0,10.0,5.0,Male,Quarterly,Credit Card,Fiber,South,Basic,Yes
+57.0,3574.6644364681815,480.7620652767585,55.0,5.0,,Male,Monthly,Net Banking,Mobile,South,Basic,No
+37.0,842.5888677063508,197.79353797669808,39.0,9.0,,Male,Yearly,Debit Card,Fiber,North,Basic,No
+52.0,,195.82839284477654,68.0,3.0,5.0,Male,Yearly,Net Banking,,West,Basic,No
+65.0,,173.4916166059803,,0.0,4.0,Male,,Debit Card,DSL,,Premium,Yes
+42.0,,,89.0,6.0,1.0,Male,Monthly,Credit Card,Mobile,North,,No
+52.0,3165.8350309678294,81.30179637335111,96.0,13.0,6.0,Male,,UPI,Mobile,,Premium,No
+,,279.08718525221553,62.0,1.0,3.0,Male,Quarterly,Credit Card,Mobile,North,,
+46.0,,273.143882142952,,,7.0,Female,Quarterly,,Fiber,East,Premium,
+35.0,3551.072686515786,382.14139723941065,13.0,,6.0,Female,Quarterly,,DSL,North,,No
+63.0,3045.79383798106,417.6567311591049,109.0,2.0,6.0,Male,Quarterly,Debit Card,Fiber,East,Basic,
+35.0,,,81.0,7.0,8.0,,Quarterly,,Fiber,North,,Yes
+,,,113.0,12.0,0.0,Male,Monthly,Debit Card,Mobile,South,Standard,Yes
+52.0,,133.37077417196176,101.0,,,,Monthly,Credit Card,Mobile,West,Standard,Yes
+33.0,3463.0332559629146,,6.0,2.0,5.0,,Yearly,Net Banking,Fiber,South,Standard,
+58.0,4327.617780924089,33.53555318851731,83.0,,,Male,Yearly,UPI,Fiber,North,Premium,No
+,4402.823904319111,174.5117495231831,77.0,1.0,5.0,,Yearly,,,,Standard,Yes
+,3687.6333952176565,138.77260760473771,60.0,3.0,5.0,Female,Yearly,Credit Card,Mobile,East,,Yes
+21.0,4266.559977636524,483.37660600387164,,10.0,9.0,,Monthly,Net Banking,Fiber,North,Premium,Yes
+50.0,3638.621577511776,281.06586899377174,14.0,,6.0,Male,Monthly,Credit Card,,,Standard,No
+,3560.6334729213518,176.90213432010123,95.0,,,,Monthly,Credit Card,Mobile,North,Standard,No
+,3283.7512019683295,292.3314624918795,54.0,13.0,5.0,,,,,South,Standard,
+65.0,3887.2248780093855,73.90236716611928,4.0,8.0,0.0,Male,Quarterly,Credit Card,Fiber,East,,Yes
+,1213.7229738188316,224.80165585509044,39.0,1.0,2.0,Female,Yearly,Net Banking,DSL,South,Premium,No
+,4463.918416395178,314.9859891034266,,11.0,1.0,Female,,Credit Card,Fiber,East,,No
+24.0,4423.295874853544,247.00442673726343,,,5.0,,Monthly,Net Banking,Mobile,South,Standard,Yes
+20.0,,203.8805063238905,77.0,12.0,7.0,Male,Yearly,,Fiber,North,,
+,4216.175377541433,496.9549525053506,32.0,2.0,2.0,Male,Yearly,Credit Card,Fiber,South,,Yes
+50.0,,440.75580726371885,59.0,14.0,9.0,Female,Quarterly,,Fiber,South,Premium,Yes
+,2008.0348441661386,,102.0,10.0,,Male,Yearly,UPI,DSL,East,Standard,No
+,,286.84179378523,63.0,10.0,,Male,Quarterly,Net Banking,DSL,East,Premium,Yes
+,1223.4195322173869,312.2269375131691,38.0,14.0,,Male,Quarterly,UPI,,,,Yes
+39.0,4180.8516085357805,104.64949337210446,92.0,3.0,,Female,Yearly,,DSL,East,Basic,Yes
+,4244.6038008098385,200.5931829158377,53.0,4.0,5.0,Male,Quarterly,Credit Card,Fiber,East,Premium,Yes
+63.0,2783.604801923763,24.532468780995163,94.0,0.0,,Female,Quarterly,Credit Card,DSL,East,,Yes
+,528.7364227257511,240.3952885559792,,6.0,,Male,Quarterly,UPI,,West,,Yes
+,1791.6715992871075,273.79716905904326,28.0,13.0,6.0,Male,Quarterly,,DSL,,,No
+,,,,9.0,7.0,Male,,Net Banking,DSL,West,Premium,Yes
+62.0,4915.337801123405,482.1942793469293,109.0,6.0,0.0,Female,Monthly,,DSL,West,Standard,
+68.0,,,118.0,,1.0,Male,Monthly,Net Banking,Fiber,,Standard,
+25.0,,362.4609015506734,98.0,3.0,,Male,,Net Banking,DSL,South,,Yes
+44.0,,,80.0,13.0,,Female,,Credit Card,,,,No
+,2929.9342087213495,435.6347340256041,22.0,,3.0,,Quarterly,UPI,Fiber,North,Premium,No
+51.0,4009.304278180146,69.67291019261414,,5.0,9.0,Female,Monthly,Credit Card,Mobile,South,Standard,
+,981.4128747213128,396.30234816606804,38.0,10.0,9.0,Male,Quarterly,,,West,Premium,No
+47.0,3924.6255612591262,66.7863029135899,72.0,1.0,8.0,Female,Yearly,Credit Card,Mobile,,Standard,Yes
+50.0,2935.699604042496,398.13427796195566,119.0,11.0,,Male,Yearly,Net Banking,Mobile,,Standard,Yes
+,4833.464017365476,,72.0,11.0,9.0,Female,,Credit Card,Fiber,South,Basic,Yes
+64.0,2038.4247471740873,439.15983760400354,62.0,13.0,9.0,Female,Monthly,,,East,Basic,Yes
+50.0,,472.30083644357194,57.0,3.0,9.0,Female,Quarterly,,Fiber,West,Basic,No
+22.0,4694.126474795079,,6.0,1.0,8.0,Male,Quarterly,Net Banking,Fiber,North,,No
+65.0,,234.0244245073698,78.0,9.0,6.0,Male,Quarterly,Net Banking,DSL,East,Premium,Yes
+36.0,4717.52819256403,490.58875219052914,32.0,4.0,1.0,,Monthly,Debit Card,Fiber,,Standard,Yes
+,3595.48575035366,,99.0,14.0,8.0,Male,Monthly,,DSL,,Basic,No
+52.0,805.2667659732736,432.4560236446998,10.0,6.0,3.0,Male,Monthly,,DSL,South,Standard,No
+66.0,,,,12.0,7.0,Male,Monthly,Credit Card,Fiber,South,,Yes
+34.0,3686.774398903767,190.7883044202029,59.0,0.0,6.0,Male,,Credit Card,Fiber,South,,
+,,146.46285998530576,76.0,,6.0,,,Debit Card,,East,Premium,Yes
+45.0,3119.76707079323,105.5954300876132,49.0,,7.0,Male,Monthly,Debit Card,Fiber,,,
+,2056.4737562883056,382.09010473196014,59.0,9.0,0.0,Female,,Debit Card,,North,Basic,No
+46.0,3294.119829953647,196.3375508773988,31.0,6.0,,Female,Quarterly,Debit Card,,West,Basic,
+63.0,,258.08135378937186,93.0,9.0,1.0,,Quarterly,,DSL,South,Standard,No
+23.0,4421.915627685694,248.70111260058505,69.0,12.0,1.0,Male,Quarterly,Net Banking,Mobile,North,Basic,Yes
+52.0,,290.75311947039995,,5.0,0.0,,Yearly,UPI,Fiber,South,Standard,Yes
+58.0,,,52.0,5.0,4.0,Male,,Debit Card,,,Basic,No
+,3873.433242843161,,89.0,11.0,,Female,Monthly,Net Banking,Fiber,South,,Yes
+41.0,1085.388080587844,206.75418324403938,41.0,7.0,,,Quarterly,Debit Card,DSL,,Premium,No
+46.0,3912.1843816806017,414.62186644262005,31.0,7.0,2.0,Male,Yearly,Credit Card,Mobile,South,Basic,No
+66.0,,383.4412583540852,85.0,5.0,2.0,Female,Quarterly,Credit Card,DSL,,Standard,Yes
+63.0,599.5559818804877,288.89683097050874,84.0,2.0,1.0,Female,Yearly,Net Banking,Mobile,,Standard,Yes
+48.0,1956.2459861729355,478.24333608790687,103.0,4.0,,Male,Yearly,Net Banking,Fiber,,,Yes
+,2698.8943568209957,104.23488518655938,22.0,1.0,1.0,Male,Monthly,Net Banking,DSL,,Basic,No
+50.0,3966.8333801350695,59.0857841032626,4.0,14.0,7.0,Male,Monthly,,Fiber,West,,Yes
+,3574.8291947292732,427.71117364293394,13.0,13.0,7.0,Male,Yearly,,DSL,South,,Yes
+38.0,,,45.0,4.0,4.0,Female,Monthly,UPI,Fiber,West,,Yes
+49.0,1731.3199982674964,424.2495828324949,,13.0,9.0,Male,Yearly,Net Banking,,North,,Yes
+,4987.0602507097,447.0796515717304,114.0,8.0,,,Yearly,UPI,DSL,,Premium,No
+50.0,,35.91650884144036,49.0,9.0,,Male,Quarterly,Debit Card,Mobile,South,,No
+20.0,2531.24160948354,442.31505767810006,20.0,0.0,0.0,Female,Monthly,UPI,Fiber,,,No
+35.0,,226.917932407864,116.0,9.0,1.0,Male,Monthly,,,,,No
+,4076.6429693746823,257.66408205709496,77.0,4.0,9.0,,Monthly,Debit Card,Mobile,,Standard,
+,3621.570016016699,315.1632929911391,81.0,11.0,9.0,Female,Quarterly,,Fiber,North,Basic,
+48.0,,463.55939033139293,54.0,5.0,3.0,,Quarterly,Net Banking,DSL,,Standard,No
+,,14.462466742733195,36.0,,0.0,Female,Quarterly,Debit Card,,South,Basic,
+57.0,,241.03751681731947,,10.0,,Male,,Net Banking,Fiber,South,Standard,No
+63.0,3445.3004642651085,345.42241100312754,1.0,6.0,8.0,Female,Monthly,,DSL,North,Standard,
+,1729.667871491942,362.7399440606231,15.0,8.0,,Female,Monthly,Debit Card,Mobile,South,Premium,No
+67.0,,347.80355361086845,77.0,5.0,9.0,Female,Quarterly,Credit Card,Mobile,West,,
+49.0,,71.54538905702032,17.0,4.0,2.0,Female,Quarterly,UPI,Mobile,West,,
+64.0,2445.5066046917086,153.20081624398222,24.0,11.0,1.0,,,,DSL,,Premium,
+39.0,,182.56418508142167,58.0,,,Female,Quarterly,UPI,Mobile,South,Premium,No
+40.0,2388.7729261675504,,72.0,12.0,,Female,Yearly,Debit Card,DSL,West,Premium,Yes
+19.0,3373.366764488385,142.98613684520376,114.0,0.0,9.0,Female,Monthly,Credit Card,Mobile,South,,No
+44.0,2289.174790832574,109.29895711426556,91.0,10.0,6.0,Female,Quarterly,,Fiber,West,Basic,No
+,1733.968410569015,478.9367694238576,109.0,,5.0,Male,Monthly,,,East,Premium,No
+19.0,4927.899415819227,9.387326131167105,,4.0,0.0,Male,Monthly,Net Banking,Fiber,East,,No
+43.0,2342.0030284176937,498.92132356257923,46.0,14.0,,,Monthly,Net Banking,,,,No
+34.0,4523.446416556105,,72.0,1.0,1.0,Male,Monthly,Debit Card,Fiber,South,Basic,No
+57.0,1534.7957265098878,,8.0,3.0,,,,Debit Card,DSL,South,,
+50.0,,150.83660119136562,59.0,6.0,,Female,Monthly,,,West,,Yes
+26.0,,12.086062445194688,,4.0,7.0,Female,Yearly,,Mobile,,,Yes
+,,370.24541168795736,,11.0,1.0,Female,,,DSL,East,,
+,2158.368546756925,417.9015755153345,,5.0,8.0,Female,,Credit Card,Fiber,North,,Yes
+,4389.6121242783665,371.535685316992,13.0,1.0,4.0,Female,Quarterly,Debit Card,,North,Premium,No
+46.0,2629.4445801120073,,,2.0,9.0,Female,Yearly,,DSL,South,,Yes
+59.0,4856.870425616248,377.9468215171997,,6.0,,Male,Monthly,Credit Card,DSL,West,Basic,No
+43.0,1334.864820664045,,113.0,10.0,2.0,Female,Yearly,Credit Card,Mobile,South,,Yes
+52.0,,330.9775552566772,28.0,1.0,2.0,,Monthly,Debit Card,Fiber,East,Premium,No
+67.0,3994.6858375628376,384.2273867338152,89.0,11.0,9.0,,Yearly,UPI,DSL,South,Basic,Yes
+42.0,,423.7311126404774,,5.0,7.0,Female,Monthly,Net Banking,,South,Standard,Yes
+41.0,,308.7340365475419,16.0,4.0,9.0,Male,Quarterly,UPI,DSL,East,,
+30.0,3924.607959243495,48.859333414991134,,9.0,9.0,Female,Monthly,,Fiber,,,No
+,3317.991447341369,246.37576578526938,2.0,0.0,1.0,Female,Quarterly,,DSL,East,Basic,Yes
+,1090.6019495707442,43.436420662444505,118.0,11.0,1.0,,Monthly,,DSL,East,Basic,
+62.0,646.3678077106337,,82.0,10.0,,Female,Monthly,,Mobile,North,,No
+37.0,4643.815315170591,206.51771211718568,17.0,14.0,5.0,Male,Yearly,Debit Card,,West,Basic,Yes
+18.0,3274.926415343321,37.67487284941958,30.0,9.0,,Female,Yearly,UPI,Mobile,West,Standard,No
+25.0,4084.4178093927935,177.66616431489226,103.0,,4.0,Female,Yearly,,Fiber,East,Standard,Yes
+,2666.8505818064755,,13.0,3.0,6.0,Male,Monthly,Net Banking,Fiber,West,Basic,Yes
+33.0,1027.8868503307751,405.07642895456496,96.0,10.0,,Female,Monthly,Net Banking,Fiber,,Premium,No
+31.0,1063.336064911477,,114.0,1.0,9.0,,Monthly,Net Banking,Mobile,West,,
+,3585.0437925303713,40.796655252679614,93.0,3.0,7.0,Male,Quarterly,Credit Card,Mobile,West,Premium,No
+68.0,2436.3765270475824,477.7820276093922,110.0,0.0,,,Quarterly,UPI,,East,Premium,Yes
+,1402.3612701515153,263.6754166716889,94.0,1.0,7.0,,Monthly,,Mobile,South,Premium,Yes
+32.0,2712.175460336466,153.2850105871676,82.0,12.0,8.0,,Yearly,Net Banking,DSL,South,Standard,Yes
+,788.9402168381034,43.04672726170094,13.0,7.0,,,,Net Banking,DSL,South,Premium,No
+51.0,3118.8713086147945,252.80901269485682,43.0,5.0,4.0,Female,Yearly,Debit Card,DSL,North,,
+19.0,1710.4703199579394,398.2851945229206,85.0,1.0,,Female,Monthly,Credit Card,Fiber,,Standard,Yes
+,4089.0159528673466,355.0078062470156,,11.0,,,Yearly,Credit Card,DSL,,Premium,
+40.0,,29.86187567466701,21.0,14.0,8.0,Male,Monthly,Credit Card,Fiber,East,Premium,Yes
+39.0,2548.4906708681056,41.08640850711224,112.0,5.0,4.0,Female,,Credit Card,Mobile,North,Basic,
+68.0,552.2924295864528,204.42227490315537,55.0,9.0,1.0,Male,Yearly,Credit Card,Fiber,East,Premium,No
+42.0,826.010995075515,151.1687945537319,81.0,8.0,,Female,Quarterly,Debit Card,Fiber,South,Premium,
+,2266.221003830082,,40.0,6.0,7.0,Female,Yearly,UPI,DSL,North,Premium,No
+39.0,2659.724756227056,144.09722695981324,83.0,8.0,6.0,Male,Monthly,Debit Card,Mobile,East,Premium,No
+66.0,,402.7239579319579,116.0,4.0,,Female,Monthly,,Mobile,North,,No
+,,464.9678865477677,15.0,6.0,,Male,Monthly,Debit Card,DSL,,,
+59.0,3627.4184875694414,205.52583379114537,73.0,10.0,,,Monthly,Credit Card,Mobile,East,Premium,No
+23.0,4370.550787351421,453.52494605558604,52.0,14.0,4.0,,Yearly,,Mobile,South,Premium,No
+32.0,,164.14037211770156,74.0,13.0,,Female,Quarterly,Credit Card,Mobile,East,,No
+60.0,,240.83630824017686,108.0,6.0,0.0,Female,Monthly,Debit Card,DSL,West,Standard,Yes
+,,,95.0,,,Female,Yearly,Credit Card,Mobile,West,Premium,No
+50.0,972.1858028817869,322.0356408770428,53.0,11.0,,Male,,,Fiber,East,Premium,
+,,489.59565201153043,87.0,2.0,,Male,Monthly,Credit Card,,South,Premium,
+,,303.72908254147245,52.0,6.0,6.0,Male,Quarterly,,Mobile,,,No
+61.0,1141.2299430568096,182.1179716362067,30.0,0.0,,,Monthly,Net Banking,DSL,West,Basic,Yes
+22.0,2744.996690531102,325.66963576531157,,8.0,0.0,Male,Quarterly,Debit Card,DSL,,Premium,Yes
+56.0,3281.7008044315357,,57.0,9.0,6.0,Male,Quarterly,Net Banking,DSL,East,Standard,No
+,3661.092367448468,444.8862447313723,52.0,12.0,7.0,,Monthly,UPI,Mobile,East,,Yes
+23.0,3018.4190756911134,,9.0,,6.0,Male,Yearly,,Mobile,North,Standard,
+62.0,543.9688133863265,227.4281223096228,54.0,4.0,3.0,Male,Quarterly,UPI,Fiber,,,
+49.0,1969.0758870979635,295.003070284492,,6.0,7.0,,Monthly,Debit Card,,North,Standard,Yes
+69.0,,314.2680120807542,1.0,4.0,4.0,Male,Quarterly,,,East,Premium,Yes
+47.0,895.39924615175,,44.0,9.0,9.0,Male,Quarterly,Net Banking,Fiber,South,,Yes
+64.0,2077.8211904413133,342.8955245055842,99.0,,,Male,Yearly,Net Banking,,West,,No
+,,124.75618175618715,75.0,10.0,9.0,Male,Quarterly,Net Banking,,North,Basic,
+57.0,853.6032371975933,358.406553090762,98.0,9.0,4.0,Female,Quarterly,,Mobile,South,Basic,
+69.0,2286.1547429071825,412.1547232201774,80.0,10.0,0.0,Female,Monthly,Credit Card,,East,,No
+33.0,1097.2208931937716,402.95946123849757,9.0,6.0,,Male,Monthly,UPI,Fiber,North,Standard,No
+,3053.933817177012,278.4879788669051,,9.0,4.0,Female,Yearly,,Fiber,,Premium,Yes
+67.0,,262.4840966938218,15.0,14.0,5.0,Female,Quarterly,,Fiber,South,Standard,Yes
+59.0,4102.640145990873,75.7236008630088,12.0,6.0,3.0,Male,Quarterly,,DSL,North,Basic,
+47.0,1400.6760991016454,,97.0,12.0,5.0,Male,Quarterly,Credit Card,,North,Premium,Yes
+36.0,1253.671620165814,139.3476433211236,109.0,10.0,7.0,Male,Yearly,UPI,Fiber,North,,Yes
+34.0,970.5552815048011,250.86423429488354,78.0,14.0,,,Quarterly,Credit Card,,North,,
+36.0,,,57.0,2.0,4.0,,Monthly,,Mobile,South,Basic,Yes
+45.0,3679.1407691910554,71.24503968484811,,2.0,1.0,Female,Yearly,Debit Card,,North,Standard,Yes
+,642.1376517153892,316.6310599614096,72.0,9.0,1.0,Male,Monthly,Net Banking,DSL,West,,Yes
+54.0,,31.894357237337395,27.0,11.0,6.0,Female,Monthly,,,West,Basic,Yes
+43.0,733.8707764316258,375.579390892469,,12.0,9.0,Female,Yearly,Net Banking,Mobile,East,Basic,No
+40.0,2935.833508854817,162.20546365425275,,14.0,,Male,Monthly,,Mobile,North,Premium,No
+26.0,3690.772337529124,5.066673037220234,65.0,2.0,9.0,,Quarterly,Debit Card,Fiber,West,,
+,,,,5.0,5.0,Female,Yearly,UPI,Fiber,,Standard,No
+18.0,3713.3911945959253,28.191694721163547,,11.0,3.0,,Monthly,Credit Card,DSL,West,,No
+18.0,4107.776373814064,,42.0,14.0,4.0,,Quarterly,Net Banking,DSL,South,Basic,
+64.0,2027.5258664426274,354.9533612905795,,5.0,0.0,Male,,UPI,Fiber,North,,No
+,,,115.0,12.0,6.0,Female,Monthly,,Mobile,South,Standard,No
+49.0,860.5168087310382,420.47255371622117,,12.0,,,Quarterly,UPI,Fiber,South,Premium,No
+65.0,4526.674952272375,6.890861715998638,103.0,2.0,8.0,Female,Yearly,UPI,,West,Standard,
+42.0,,,43.0,2.0,7.0,,Monthly,Credit Card,DSL,West,Standard,Yes
+57.0,4177.839964831222,,95.0,7.0,4.0,Male,,,Fiber,,,No
+62.0,2535.4322803323507,161.55372411600686,17.0,7.0,2.0,Male,Quarterly,,Fiber,North,,No
+18.0,,55.4367320926767,,6.0,9.0,Female,Monthly,Net Banking,Fiber,North,Premium,Yes
+33.0,2868.8119742125095,,32.0,9.0,8.0,Male,Monthly,,DSL,West,Basic,
+56.0,3792.1528478989935,138.84467676034015,,3.0,5.0,Female,Monthly,,Mobile,West,,
+22.0,867.3349191376531,422.1423915694747,,14.0,4.0,,,Credit Card,Fiber,North,Standard,No
+39.0,771.5843779575371,160.10721920464584,85.0,3.0,2.0,Female,Yearly,Debit Card,DSL,East,Premium,No
+46.0,,395.5215735291236,40.0,2.0,5.0,Female,Monthly,Net Banking,DSL,West,Premium,
+,1217.9510605093474,446.4767116813137,23.0,4.0,2.0,Male,Yearly,Debit Card,DSL,East,,
+29.0,4423.026049664908,219.7396226903821,,2.0,9.0,,Yearly,Debit Card,Fiber,South,Basic,Yes
+43.0,,455.42185620792407,6.0,12.0,5.0,Female,Monthly,,Fiber,,Basic,No
+,4891.393651186091,191.77243671178047,,7.0,,Female,Yearly,Net Banking,Mobile,South,Premium,Yes
+,,482.21881616260356,50.0,6.0,1.0,Female,Monthly,Net Banking,,West,Premium,No
+,1319.530620599147,49.1983146401586,102.0,12.0,7.0,,Monthly,Net Banking,Fiber,South,Standard,No
+39.0,4053.6432821411563,,37.0,2.0,3.0,Male,Quarterly,Debit Card,DSL,West,Standard,No
+46.0,3464.1849897539423,249.4379500261797,109.0,8.0,8.0,Male,,,,East,Premium,
+,,,64.0,11.0,6.0,,Quarterly,,Mobile,East,Standard,
+45.0,2999.1359792193407,318.19237998055746,115.0,13.0,1.0,Female,,Net Banking,Fiber,East,Premium,No
+22.0,3736.4080022251874,,54.0,12.0,3.0,Male,Quarterly,Net Banking,,South,Premium,
+64.0,1528.0463359908442,7.159818476902998,72.0,4.0,4.0,Male,Yearly,,DSL,East,,No
+66.0,4983.502622255339,87.64177892986336,105.0,,2.0,Female,,,DSL,South,,
+47.0,,357.95779506398776,49.0,,8.0,,,Net Banking,Mobile,West,Standard,
+63.0,3426.465588561216,334.8607797212122,99.0,14.0,,Male,Yearly,UPI,Mobile,South,,
+,1397.9410291811532,483.19351503869524,,6.0,1.0,Female,Monthly,Net Banking,Mobile,,Basic,Yes
+,3561.027090940811,381.7137061741376,11.0,,2.0,,Yearly,,Mobile,North,Standard,Yes
+29.0,824.8928404062913,475.6324903270123,88.0,1.0,8.0,Female,Monthly,UPI,Mobile,North,Standard,
+,637.9362599261273,,49.0,8.0,6.0,Male,Quarterly,Net Banking,Mobile,,,Yes
+43.0,,152.53584327652436,,5.0,1.0,Female,Monthly,UPI,DSL,South,Premium,No
+,2581.8033053269232,57.155636514173956,115.0,7.0,8.0,,Monthly,,Mobile,North,Basic,No
+,4407.226274337712,392.0028123557431,66.0,0.0,,Female,Yearly,Credit Card,DSL,North,,
+38.0,3772.260813948386,,63.0,4.0,8.0,,,Net Banking,DSL,North,Premium,No
+56.0,3842.179345399915,28.852076134681635,104.0,11.0,1.0,Female,Monthly,,Fiber,West,Premium,Yes
+53.0,2414.720005016339,,,0.0,,Male,Quarterly,,DSL,,Premium,Yes
+50.0,,478.61590866472164,103.0,9.0,3.0,Male,Quarterly,Debit Card,DSL,South,,No
+47.0,2169.6744334307123,252.69856712654962,28.0,10.0,4.0,,Yearly,Credit Card,Mobile,North,Basic,Yes
+54.0,4944.42303681226,219.2009223297538,17.0,13.0,1.0,,Monthly,Credit Card,DSL,West,Premium,Yes
+40.0,680.4913613561712,231.5613045538505,6.0,7.0,,Male,,Credit Card,Mobile,East,Standard,
+,4401.641732551018,108.39694838255605,19.0,7.0,0.0,Female,Monthly,UPI,Mobile,,,No
+22.0,,187.51004957807362,56.0,0.0,6.0,Female,Quarterly,,Mobile,East,Premium,
+53.0,2473.7693863531567,188.05756171365243,102.0,8.0,9.0,,Monthly,Net Banking,Fiber,West,Standard,Yes
+,3763.6594718681145,30.91573499279884,28.0,1.0,0.0,Female,Monthly,Credit Card,Mobile,North,Standard,Yes
+69.0,2690.0102364111626,384.94597611636954,66.0,11.0,7.0,Male,Quarterly,Credit Card,DSL,,Premium,No
+48.0,4430.404571367473,211.1696937924201,38.0,8.0,2.0,,Quarterly,,Mobile,West,,
+,4553.158388050663,411.9790439741295,119.0,0.0,9.0,Female,Monthly,,Mobile,,Standard,
+,,425.9222605543482,37.0,11.0,5.0,Male,,Debit Card,Mobile,South,Basic,No
+,1745.7250875577322,109.93705707583574,115.0,9.0,6.0,,Monthly,,Fiber,West,,Yes
+,3165.57647867013,,116.0,13.0,9.0,,Quarterly,,DSL,East,,No
+22.0,4605.635055275109,238.77949306067595,68.0,13.0,0.0,,Yearly,,Fiber,East,Premium,
+62.0,1447.9798505254996,,86.0,8.0,5.0,Male,Quarterly,,DSL,West,,No
+,3303.3496260356724,,90.0,3.0,6.0,,Quarterly,Net Banking,Fiber,,Standard,
+33.0,3342.0209904163426,340.5175341534719,,,5.0,Male,,Debit Card,DSL,West,Basic,No
+41.0,,305.8373005150977,43.0,6.0,,Male,Quarterly,,Fiber,East,Premium,No
+33.0,1092.0545830726692,151.17423139805723,36.0,10.0,0.0,,Quarterly,UPI,Mobile,South,Basic,Yes
+19.0,,72.61744730733044,,,8.0,Male,Quarterly,Credit Card,Fiber,,Standard,
+66.0,4590.646342995385,327.5616814362519,13.0,,3.0,,Quarterly,UPI,Fiber,South,,Yes
+,1308.573989916089,,52.0,4.0,6.0,Female,Quarterly,Net Banking,Mobile,South,Premium,Yes
+49.0,1568.9449621574495,161.23553516285824,58.0,10.0,6.0,Male,Quarterly,Debit Card,Mobile,North,Premium,
+,4871.277923187378,324.19213899104534,32.0,8.0,1.0,Male,Quarterly,,DSL,East,Premium,Yes
+37.0,1314.396287192704,,81.0,1.0,0.0,,Quarterly,Debit Card,DSL,North,,
+41.0,4344.7329201631055,358.0374072248958,,13.0,7.0,Male,Quarterly,Credit Card,DSL,West,,Yes
+,2715.2503540161565,103.61156107255628,100.0,12.0,,,Monthly,UPI,Fiber,,,No
+67.0,1612.5398348142967,445.6564263049063,,10.0,6.0,Female,Monthly,Debit Card,DSL,South,Standard,Yes
+52.0,4418.374555726301,147.26775025046197,60.0,13.0,7.0,Male,Quarterly,Credit Card,Fiber,North,Basic,Yes
+,2503.873647511995,187.05406393929567,,11.0,2.0,Female,Monthly,Net Banking,,East,,
+50.0,2816.678092683606,33.75551627977315,,1.0,1.0,Male,Yearly,UPI,DSL,South,Premium,
+68.0,,60.19854509903182,58.0,10.0,6.0,Male,Monthly,Debit Card,,West,,Yes
+60.0,3168.2788314571735,260.3516418426024,99.0,11.0,7.0,Male,Quarterly,,,East,Premium,Yes
+,,137.4583749803459,110.0,14.0,0.0,Female,Quarterly,,Mobile,South,Basic,
+29.0,2259.8669149329235,418.5627117423862,104.0,8.0,9.0,Male,Monthly,Credit Card,Mobile,West,,Yes
+20.0,,,56.0,,8.0,Female,Quarterly,,Fiber,,,
+18.0,,,28.0,2.0,3.0,Female,,Net Banking,DSL,West,Basic,No
+50.0,3455.3149904358147,171.98604565070087,1.0,,3.0,,Yearly,UPI,,,Standard,
+57.0,1963.3552890111268,14.567177304212512,42.0,10.0,2.0,,Quarterly,Debit Card,Fiber,,,No
+,3980.629065589703,66.56235750525255,82.0,14.0,5.0,Female,Yearly,Debit Card,DSL,West,Premium,Yes
+60.0,1088.9314732325743,,48.0,8.0,0.0,Male,Yearly,Credit Card,Mobile,North,,
+61.0,4864.194702853451,248.96796930148608,40.0,,5.0,Female,Monthly,,Fiber,West,,No
+46.0,2542.052936226377,205.1234248911602,97.0,3.0,1.0,,Yearly,Credit Card,Mobile,East,Standard,No
+,1562.2270850590878,267.81415081398643,63.0,11.0,8.0,Female,,UPI,Mobile,,,Yes
+,830.735362985057,299.59017907831236,76.0,0.0,1.0,,Quarterly,Debit Card,DSL,,Premium,
+48.0,1263.9105728939335,9.912291458278638,72.0,,6.0,Male,Monthly,Credit Card,Fiber,,Basic,No
+,2838.9827685020796,,,13.0,0.0,Male,Quarterly,Credit Card,Fiber,South,,
+19.0,,481.9321242393562,80.0,8.0,6.0,,Quarterly,UPI,Mobile,,Standard,No
+,4229.975146471743,261.9209786641266,114.0,1.0,4.0,Female,Quarterly,Net Banking,Mobile,North,Basic,No
+,,340.38342239218184,4.0,2.0,7.0,Male,,UPI,DSL,East,Premium,Yes
+,1619.2142266443345,159.3726096688572,38.0,9.0,3.0,Female,Quarterly,Net Banking,Mobile,South,Standard,
+40.0,3277.152439718135,388.12573218561744,108.0,7.0,9.0,Female,Monthly,,DSL,East,Standard,No
+34.0,3680.4974759845063,387.59613352867694,27.0,5.0,,,Quarterly,Debit Card,Fiber,South,,No
+43.0,1251.6885855542744,263.0415435887988,9.0,7.0,5.0,,Yearly,Credit Card,DSL,West,,No
+25.0,1254.2864732974294,488.1268425232107,111.0,6.0,,,Yearly,UPI,,North,Standard,Yes
+,665.0214212009433,,,13.0,3.0,,Quarterly,,Fiber,East,,Yes
+,3813.8090677953824,13.389094120342591,56.0,12.0,6.0,,Yearly,UPI,,South,Standard,Yes
+27.0,3487.120374298123,,76.0,12.0,4.0,Male,Monthly,Credit Card,,West,,
+43.0,2635.8389408741623,404.54199099561686,,4.0,4.0,Male,Monthly,UPI,DSL,West,Basic,No
+51.0,4298.767020361387,64.50257841468525,88.0,8.0,0.0,Female,,Net Banking,Mobile,South,,No
+68.0,4125.51568827524,136.46350231451,119.0,3.0,1.0,Male,Quarterly,Credit Card,Mobile,South,Standard,No
+58.0,,,14.0,5.0,4.0,Male,Quarterly,Net Banking,Fiber,South,Basic,No
+,4407.220762309664,150.18776233637954,109.0,1.0,,Male,Yearly,Debit Card,Fiber,North,,Yes
+21.0,1426.285445165457,387.7052275897424,25.0,14.0,1.0,,Yearly,Debit Card,Fiber,South,Basic,No
+,1003.6382872897755,261.39046121772657,34.0,,3.0,,,UPI,DSL,South,,Yes
+62.0,1713.8732518264533,177.30731861830262,67.0,1.0,,Female,Yearly,Net Banking,Mobile,North,Premium,
+28.0,756.8908524019168,189.0109509786335,24.0,9.0,3.0,Female,Monthly,Net Banking,Fiber,West,,No
+,2890.262876004644,5.670044729156737,,6.0,3.0,Female,Yearly,Credit Card,,South,Standard,Yes
+53.0,4714.7256153273265,153.40126114479176,106.0,12.0,2.0,Male,Monthly,,Fiber,East,Basic,
+,677.0459330082934,324.9970771107756,73.0,,6.0,Female,Quarterly,Net Banking,DSL,West,,No
+38.0,1049.4946130451206,487.2262496890968,26.0,,8.0,Male,Yearly,Credit Card,,East,Premium,Yes
+53.0,2534.8956272754585,424.29510935703024,20.0,14.0,4.0,Female,Monthly,Credit Card,,,,Yes
+27.0,4702.437578875572,16.679507499536918,64.0,,3.0,Male,Yearly,Net Banking,DSL,,Premium,No
+54.0,,449.7874993140455,104.0,14.0,1.0,Female,Quarterly,UPI,DSL,North,,
+,,392.68321458281986,10.0,12.0,1.0,Female,,Credit Card,Fiber,North,Standard,Yes
+41.0,687.0778657267645,391.2861811676353,83.0,1.0,4.0,,Yearly,Credit Card,,,Premium,No
+52.0,1167.5444043293999,231.70790070676787,67.0,14.0,6.0,Female,Yearly,,DSL,South,Premium,Yes
+66.0,4939.835553314811,202.0126200124789,24.0,8.0,,Female,Quarterly,Net Banking,Mobile,East,Premium,No
+,4843.034133962205,154.94328577243036,5.0,6.0,,Female,Quarterly,Credit Card,DSL,North,Premium,
+,522.2299142048432,37.51895518241106,67.0,10.0,,,Monthly,,Mobile,,Basic,Yes
+,,117.97650492938105,,,6.0,,,Credit Card,Fiber,West,Standard,No
+35.0,3376.0397201697515,127.06879931412219,27.0,2.0,4.0,Male,Yearly,UPI,Fiber,South,Basic,No
+,4405.6323253401,,80.0,6.0,,Female,Quarterly,UPI,Mobile,South,,Yes
+56.0,2546.329350352366,374.9849812653635,113.0,4.0,9.0,Male,Quarterly,,DSL,West,Standard,No
+49.0,,239.53586505698357,15.0,,,Male,Monthly,Credit Card,Fiber,North,Premium,Yes
+41.0,2699.809611156141,33.6330024763445,35.0,13.0,5.0,Male,Yearly,Debit Card,Mobile,,,No
+40.0,3500.8891589574696,479.10595148916093,76.0,,2.0,,Yearly,Debit Card,,North,Basic,Yes
+,1128.430646403408,471.6485379515856,105.0,5.0,4.0,,Monthly,Net Banking,Mobile,West,Standard,Yes
+54.0,634.8811544270508,393.66882385846213,53.0,,7.0,Male,,Net Banking,DSL,,Premium,Yes
+29.0,1885.6847371603592,495.70731127428917,44.0,11.0,0.0,Female,Quarterly,,DSL,North,Standard,
+66.0,,,26.0,,0.0,Male,Quarterly,Credit Card,DSL,South,,Yes
+30.0,,481.570333375337,47.0,8.0,,Female,,,DSL,East,Basic,No
+,3530.445949962128,42.42449510529163,34.0,0.0,,Female,Monthly,Debit Card,,,Premium,No
+42.0,4864.604207482717,186.0119703893788,87.0,2.0,4.0,Male,Yearly,,Mobile,North,Standard,Yes
+52.0,922.5532210523827,116.56372766334908,,10.0,0.0,,Monthly,UPI,Mobile,North,Basic,Yes
+58.0,,101.93737664646366,50.0,6.0,8.0,Female,Monthly,UPI,Mobile,West,,No
+,2496.87598687057,74.69745970187466,84.0,5.0,0.0,Male,Yearly,Net Banking,Mobile,North,,
+,,313.09475257516834,12.0,6.0,4.0,Male,Monthly,Credit Card,DSL,South,Standard,
+66.0,,391.754318594916,87.0,7.0,,Male,,,Fiber,North,,No
+37.0,3616.81678501774,291.2577077130785,4.0,5.0,,Male,Quarterly,Net Banking,Fiber,South,Standard,
+65.0,4271.518803416496,77.74654124616379,87.0,,3.0,,Yearly,Debit Card,Mobile,South,Standard,
+42.0,,406.5062661170681,48.0,1.0,7.0,Male,Monthly,Debit Card,Mobile,South,Premium,
+39.0,,319.7975800460456,55.0,11.0,5.0,Male,Quarterly,,Fiber,,Basic,
+,2737.286438037923,197.1420245328628,112.0,,2.0,Female,Quarterly,,DSL,South,Basic,No
+,3280.3125809054623,338.69449629035114,1.0,11.0,3.0,Male,Quarterly,Debit Card,Mobile,West,,No
+66.0,4410.072430154232,,118.0,11.0,,Female,,UPI,DSL,North,Premium,No
+53.0,3067.7438598747335,,89.0,11.0,0.0,Female,Monthly,UPI,Fiber,West,Premium,No
+29.0,636.7417686357659,459.1554923503352,66.0,10.0,7.0,Female,Monthly,,Fiber,East,Premium,No
+58.0,,148.7997303073531,30.0,0.0,0.0,Female,Monthly,Debit Card,,North,Premium,No
+36.0,,237.64419273817862,3.0,2.0,0.0,Male,Monthly,Debit Card,DSL,,Premium,No
+29.0,3544.310235997609,445.61986301102723,,11.0,3.0,Female,Quarterly,Credit Card,,,,No
+,,355.3220683824261,,,9.0,Female,Yearly,Credit Card,Fiber,East,,Yes
+,3464.9846160469574,35.79059695152786,84.0,3.0,,Female,,UPI,DSL,East,Basic,No
+,2272.389825443713,77.91500691809031,49.0,,,Female,Quarterly,UPI,Mobile,West,,No
+31.0,3430.5483966867146,8.881587432098826,116.0,13.0,8.0,,Quarterly,,Mobile,North,Standard,Yes
+48.0,979.6686363859583,,,0.0,0.0,Male,Yearly,Debit Card,Mobile,North,Basic,Yes
+,3460.303870713662,226.59834557815708,85.0,4.0,6.0,Male,Yearly,,,North,,Yes
+,,71.4660511966264,62.0,9.0,9.0,Female,,Credit Card,Mobile,West,,No
+64.0,716.9541748725021,479.1773899231014,97.0,2.0,4.0,Male,,Net Banking,DSL,,Basic,No
+33.0,,267.18156335308186,116.0,1.0,7.0,Male,Monthly,Credit Card,Mobile,South,,No
+22.0,2331.0858232529176,124.73718058588014,,14.0,6.0,Female,Monthly,,Fiber,North,Premium,
+52.0,4418.390526517666,252.79876772158025,15.0,2.0,,Female,Yearly,UPI,Mobile,West,Basic,
+29.0,,341.41206470387834,,7.0,3.0,Female,Quarterly,,Fiber,West,Standard,
+,3051.573174440005,42.73841289691442,52.0,5.0,5.0,Male,Yearly,Credit Card,,South,Basic,No
+,,140.97838844870654,79.0,12.0,,Female,Monthly,,DSL,East,Basic,
+38.0,4453.3200258560655,404.44791798757683,46.0,13.0,8.0,,Monthly,Debit Card,DSL,North,Basic,
+53.0,2318.6314474296487,232.5341108493173,25.0,6.0,4.0,,,Net Banking,Mobile,North,Basic,
+,,,21.0,11.0,7.0,,Monthly,,Fiber,West,Standard,No
+33.0,,,88.0,5.0,4.0,Female,Quarterly,UPI,Fiber,,,No
+,4135.306738735664,26.730471608287534,5.0,5.0,,,,Debit Card,DSL,North,,
+62.0,3930.283106494771,87.04614101097718,70.0,11.0,5.0,Female,Quarterly,Net Banking,DSL,South,Premium,Yes
+,,225.543111177236,113.0,2.0,8.0,Female,Quarterly,,Mobile,East,Basic,
+56.0,2460.1249166581983,108.54680537692427,,11.0,,Female,Monthly,Credit Card,Fiber,East,Premium,Yes
+,4180.253972787597,29.739619186540974,,12.0,0.0,Female,Quarterly,,DSL,West,Standard,No
+48.0,,422.6065837056527,108.0,13.0,,Female,Yearly,Debit Card,Mobile,West,Premium,No
+,2950.2009408238227,490.69030193623735,,7.0,2.0,Male,Quarterly,Net Banking,Fiber,North,Premium,No
+52.0,525.9139722415471,,87.0,11.0,9.0,,Quarterly,Net Banking,Fiber,West,Premium,Yes
+40.0,1960.6362345512164,427.6235362438102,,6.0,4.0,Male,,Debit Card,DSL,East,Basic,Yes
+,2149.07690692129,124.77867950693746,91.0,6.0,2.0,Male,Quarterly,Credit Card,Mobile,North,Premium,Yes
+,,480.51035287903386,18.0,5.0,8.0,,Quarterly,,DSL,North,,No
+28.0,3629.60243010438,,,4.0,,Female,Monthly,Debit Card,Mobile,East,Standard,No
+35.0,2248.5114557165557,475.957756129107,92.0,9.0,2.0,Female,Yearly,UPI,Fiber,North,Standard,
+,,497.43555051314576,99.0,7.0,,Male,Monthly,Credit Card,Mobile,South,Standard,Yes
+,,357.3027888442941,86.0,4.0,,Male,Yearly,,,South,Premium,No
+,2179.63306233203,490.6661472369518,104.0,8.0,6.0,Male,Yearly,UPI,Mobile,North,Basic,No
+,1522.7133226841815,,23.0,8.0,3.0,Female,,Credit Card,Mobile,West,,No
+61.0,829.3816569579964,133.4731826721647,,0.0,3.0,Female,Yearly,Credit Card,Mobile,South,,Yes
+34.0,3215.5186702162005,,,5.0,,Female,Yearly,Net Banking,DSL,North,Basic,Yes
+55.0,3506.9575934975733,298.81266301249906,,6.0,4.0,Male,Quarterly,Net Banking,Mobile,South,Basic,Yes
+24.0,3287.706557043265,41.17537320337242,114.0,2.0,7.0,Male,Monthly,Credit Card,Mobile,West,,Yes
+63.0,,313.0599159855368,10.0,6.0,6.0,Male,,Credit Card,Fiber,,Standard,No
+30.0,,490.68302919733577,,,6.0,,Quarterly,UPI,,North,Basic,
+57.0,4385.001423073214,99.10328664294518,52.0,10.0,5.0,Female,,,Fiber,North,,No
+59.0,2835.8680331129813,397.33458256274974,113.0,6.0,2.0,Male,Monthly,Credit Card,DSL,North,Standard,
+26.0,2656.3184493337894,454.4099029209116,72.0,,4.0,Male,Quarterly,UPI,DSL,,Premium,No
+,615.3892961289606,472.1322884460093,119.0,12.0,0.0,,Quarterly,Debit Card,Mobile,North,Basic,No
+,2035.6152243177037,480.2671241806964,75.0,,6.0,,Monthly,UPI,DSL,,Premium,No
+,,263.12252116712864,61.0,1.0,,Female,,,Mobile,West,Premium,No
+,2294.702514036052,488.7674144557943,64.0,,,Male,Yearly,Net Banking,DSL,,Basic,No
+46.0,3110.7756615229955,379.8685525315472,5.0,,1.0,,Yearly,UPI,Mobile,West,Premium,Yes
+54.0,,,109.0,0.0,,Female,Monthly,Credit Card,,West,,
+55.0,3235.572917570501,241.06555270164515,53.0,4.0,2.0,Female,,Credit Card,Fiber,East,,No
+,3941.9746769395774,360.573931809142,55.0,8.0,,,,,Fiber,West,Basic,
+25.0,4158.435824222421,127.43345633044625,37.0,6.0,6.0,,Yearly,,Fiber,South,,Yes
+,3731.553843019225,,56.0,6.0,5.0,Male,Yearly,Credit Card,Fiber,West,Standard,
+62.0,,334.96723712807653,59.0,10.0,,,Quarterly,,Mobile,,Standard,No
+18.0,582.0466220436274,85.53637318524011,109.0,12.0,9.0,,Yearly,,DSL,South,Standard,No
+,1381.0009355759576,284.71722966411437,102.0,11.0,3.0,Female,Quarterly,UPI,Mobile,South,,No
+69.0,534.0329374016395,386.9553209344108,93.0,1.0,8.0,Female,Yearly,Net Banking,Fiber,East,,Yes
+34.0,3413.6362136957136,251.95335394529124,69.0,7.0,0.0,Female,Monthly,,Fiber,,Standard,No
+,4541.137470274942,10.991042804173176,73.0,2.0,,Female,,,DSL,West,Basic,Yes
+,,,59.0,14.0,3.0,Male,,Debit Card,Fiber,South,Standard,
+62.0,4671.6554515833795,181.72952526515604,112.0,7.0,2.0,,Monthly,,Mobile,West,Premium,No
+,771.2032563030239,463.4660638737321,2.0,2.0,0.0,,Monthly,Credit Card,Mobile,,Standard,No
+53.0,4704.962120624814,118.19500590378634,65.0,9.0,4.0,Male,Monthly,UPI,Mobile,East,,Yes
+23.0,,319.0100259914851,104.0,6.0,,Male,Monthly,Credit Card,Mobile,South,,
+,956.3937280214743,114.92755599319368,,1.0,1.0,Male,Quarterly,Credit Card,Mobile,North,,
+,2686.4229163384653,164.22664488147657,51.0,3.0,4.0,,Quarterly,,DSL,South,Standard,Yes
+61.0,1655.4945547422858,424.7808343527346,30.0,10.0,,,Quarterly,,,,Basic,No
+56.0,1781.9280588286526,365.7864139236237,11.0,5.0,,,Monthly,UPI,Fiber,East,,Yes
+44.0,1882.8048421682895,52.22264227003926,92.0,10.0,0.0,Female,Yearly,Debit Card,Fiber,East,,No
+27.0,4113.616540246985,217.20750038828464,108.0,8.0,6.0,,Quarterly,Net Banking,Fiber,West,Basic,Yes
+43.0,2926.225745038645,19.439033004405914,,4.0,3.0,Male,Yearly,,Fiber,South,,Yes
+,1900.8846462020165,,39.0,,7.0,Female,Yearly,Debit Card,,West,Premium,
+56.0,3246.5020248991327,332.9048357920287,90.0,8.0,,,Monthly,Net Banking,Fiber,West,,No
+20.0,3722.678034004371,63.658798681085024,,14.0,5.0,,Monthly,Net Banking,DSL,South,Basic,Yes
+62.0,1726.8080033009019,147.998044760037,72.0,4.0,8.0,Male,Monthly,,Fiber,East,Standard,Yes
+30.0,2360.970956864082,201.9291296235677,63.0,,4.0,,Quarterly,Debit Card,,North,Basic,No
+67.0,1048.487420016264,460.1678572047446,64.0,7.0,3.0,,Monthly,,DSL,North,,Yes
+45.0,1315.1720729060614,496.6612326343672,61.0,12.0,7.0,,Quarterly,Credit Card,DSL,South,,No
+,,27.231093002829848,54.0,12.0,,Female,Quarterly,Credit Card,Fiber,South,Standard,No
+45.0,1316.4725646303214,381.69892213021905,92.0,0.0,3.0,Male,Quarterly,Credit Card,DSL,East,Basic,Yes
+,,189.0034128691599,94.0,6.0,2.0,,Quarterly,Credit Card,Mobile,,Basic,Yes
+,3690.708177750947,199.2668021835926,73.0,3.0,7.0,Female,Monthly,Credit Card,Mobile,South,Basic,No
+56.0,,378.36116180677624,103.0,4.0,4.0,Female,Quarterly,,Fiber,,,Yes
+,3052.904988330066,459.6210839119773,,5.0,1.0,Male,Monthly,Net Banking,Mobile,East,Basic,Yes
+20.0,,475.70965427876143,58.0,4.0,9.0,,Monthly,,Mobile,,,Yes
+30.0,4833.170938569109,290.67568008896876,85.0,11.0,8.0,Female,Quarterly,UPI,Mobile,South,,Yes
+,2675.9554102396614,,56.0,0.0,2.0,Male,Monthly,,Fiber,North,,No
+66.0,4126.966473988212,,111.0,11.0,1.0,Male,Yearly,Net Banking,Fiber,South,Basic,
+42.0,,129.24568471483863,,8.0,0.0,Male,Monthly,UPI,Mobile,North,,Yes
+50.0,695.3563978466863,284.2166442725913,119.0,1.0,7.0,Male,Monthly,,,North,Basic,No
+55.0,3349.1811901731007,182.49633845481222,31.0,,2.0,Female,Quarterly,,DSL,North,Basic,Yes
+23.0,4781.315039929957,330.0323814853987,52.0,9.0,6.0,Male,Quarterly,UPI,Mobile,West,,Yes
+61.0,,,89.0,1.0,0.0,Female,Monthly,Credit Card,Fiber,East,Basic,Yes
+,4186.349867420556,,76.0,8.0,,Female,,Debit Card,Fiber,East,,Yes
+49.0,4478.929085067835,459.52834790434133,1.0,5.0,8.0,Female,Yearly,UPI,,West,,No
+62.0,,55.39282306002077,55.0,10.0,7.0,,Yearly,Debit Card,,East,Premium,Yes
+,,255.44916432879117,22.0,8.0,2.0,Female,Quarterly,UPI,Mobile,West,Basic,No
+38.0,3249.4144498294627,114.32212756668942,40.0,12.0,,Male,Monthly,UPI,Fiber,,,Yes
+33.0,2349.6281141301715,24.270331846205387,101.0,5.0,2.0,Female,Yearly,Credit Card,DSL,West,Premium,No
+38.0,,22.829315054256064,,5.0,3.0,Female,Yearly,,Mobile,East,Standard,No
+28.0,4550.104055291051,91.73477719238454,1.0,12.0,,,Monthly,,DSL,East,Basic,No
+54.0,,434.05132548047015,65.0,10.0,,Male,Quarterly,Net Banking,Mobile,South,Premium,
+53.0,1565.9175153851693,144.8269782686282,63.0,,0.0,Female,,Credit Card,Fiber,,,Yes
+52.0,4012.3648185973784,475.47728943477136,106.0,,0.0,Female,Monthly,Credit Card,DSL,South,Premium,
+36.0,1736.6271599666125,292.9030350296508,54.0,7.0,9.0,Male,Monthly,,Fiber,,Premium,
+37.0,4201.764433311553,,42.0,2.0,,Female,Yearly,Net Banking,Mobile,West,,No
+35.0,2406.8221414194327,292.14397316138,21.0,,5.0,,Quarterly,Credit Card,Mobile,South,Premium,No
+64.0,3503.974546811617,260.76570068700255,79.0,4.0,1.0,,Yearly,UPI,Mobile,South,Standard,No
+,,380.59424560987594,81.0,2.0,1.0,,Monthly,UPI,Mobile,East,Premium,Yes
+,3307.3669610445786,,22.0,0.0,6.0,Female,Yearly,UPI,Mobile,,Premium,No
+31.0,2532.954554317531,179.75994384214968,38.0,7.0,0.0,,Quarterly,Net Banking,DSL,,,
+,3139.7380842896337,447.5766797539591,99.0,2.0,,,Monthly,UPI,Mobile,North,Basic,Yes
+,1256.0639348518853,473.4959740094507,,1.0,7.0,,,UPI,Fiber,West,Basic,
+,3815.9318522488197,446.8163226058049,80.0,0.0,,Male,Yearly,,DSL,West,,No
+20.0,4382.586848944528,212.62675700887021,8.0,3.0,1.0,Male,Yearly,Credit Card,Fiber,,Premium,
+,,391.2809239884064,,12.0,,,,,Mobile,East,Standard,No
+,930.7154998407277,240.7861879840439,47.0,7.0,3.0,Female,Yearly,UPI,Fiber,,,
+28.0,606.3736372085137,251.28222681232057,17.0,12.0,1.0,Female,Quarterly,Credit Card,DSL,East,Basic,No
+29.0,3388.871751994697,106.31665398335555,17.0,2.0,5.0,Female,Yearly,,,West,Basic,No
+27.0,3231.9231623995133,297.60950011296563,,13.0,8.0,Male,,,DSL,East,,No
+,2960.138357213315,97.13726938790722,90.0,0.0,,,,Net Banking,,South,Standard,Yes
+33.0,,169.1245260382609,13.0,3.0,7.0,Female,Monthly,Credit Card,DSL,West,,No
+25.0,2259.0769815748163,428.2399498018679,17.0,8.0,,Female,,,Fiber,,Standard,Yes
+55.0,3175.1435083377787,107.50252555937334,38.0,,2.0,Male,Quarterly,,Mobile,,Premium,Yes
+,2735.4508648662622,40.22335116084924,81.0,,1.0,Male,,Credit Card,Mobile,North,,No
+41.0,4945.034840966993,39.15875834334407,112.0,,4.0,Female,Yearly,Credit Card,Fiber,North,Premium,No
+45.0,1113.9788865052992,,78.0,13.0,,Female,Yearly,Credit Card,,,Basic,Yes
+25.0,3628.150493214172,255.92561679110813,45.0,10.0,6.0,,Quarterly,Debit Card,Fiber,East,Standard,
+45.0,2319.4344564693147,,6.0,1.0,,,Quarterly,UPI,Fiber,East,,
+53.0,,,,8.0,8.0,Male,Quarterly,,Fiber,West,Standard,
+43.0,3729.189945461793,418.73383431570545,110.0,1.0,1.0,Male,,Debit Card,Mobile,West,Basic,Yes
+25.0,,169.43456139222428,,12.0,5.0,Female,Monthly,Net Banking,Fiber,East,Standard,Yes
+,4960.651971659848,348.34093844952866,111.0,2.0,6.0,Male,Quarterly,,Mobile,West,Basic,Yes
+45.0,,386.70579384668383,72.0,6.0,3.0,Female,Yearly,UPI,Fiber,East,,No
+45.0,968.4934222287485,329.0520899986475,,2.0,5.0,,Monthly,Net Banking,Mobile,,Basic,No
+54.0,3759.524677079335,80.03956202604918,15.0,,,Male,Yearly,UPI,Fiber,West,Standard,Yes
+,3102.741126528841,438.5621263409432,54.0,,3.0,Female,Quarterly,UPI,,East,Standard,Yes
+,1733.7229995191265,271.8518036043243,27.0,2.0,7.0,Male,Monthly,Debit Card,DSL,West,Premium,Yes
+44.0,857.3871604504398,144.82385105315183,,8.0,8.0,,Quarterly,Net Banking,DSL,South,Premium,No
+34.0,885.4621231839374,215.4879517916585,113.0,0.0,0.0,,Monthly,Debit Card,Fiber,West,,No
+26.0,4523.858935988532,,,9.0,6.0,Male,Yearly,UPI,Fiber,East,Standard,Yes
+50.0,,,117.0,2.0,8.0,Female,,UPI,Fiber,,Standard,Yes
+,1955.1720295198434,383.94564150535115,35.0,0.0,9.0,Female,,UPI,Fiber,,,
+30.0,1519.953810021446,5.00575920390624,60.0,,,Female,Monthly,Credit Card,DSL,East,Basic,No
+45.0,,211.20008509873463,,11.0,1.0,Female,Monthly,,Mobile,North,Basic,Yes
+65.0,,,69.0,7.0,9.0,Female,Quarterly,,Fiber,West,Basic,Yes
+,2835.7690590872166,32.044037900481285,86.0,6.0,5.0,Female,Monthly,Debit Card,DSL,West,,
+30.0,,486.67369067130477,58.0,1.0,6.0,Female,Quarterly,UPI,Fiber,South,,Yes
+63.0,4101.604285200627,,,1.0,1.0,,Monthly,,Fiber,North,,Yes
+52.0,1551.7043685969486,155.57836621995904,23.0,8.0,1.0,,,Debit Card,Mobile,,Premium,No
+23.0,2930.053615720298,,,12.0,9.0,Male,Monthly,Debit Card,Fiber,East,Premium,No
+,,119.0562477480882,34.0,12.0,9.0,Female,Yearly,Debit Card,Fiber,,Basic,No
+68.0,3428.948160712374,5.729541932724151,26.0,5.0,0.0,Female,,Net Banking,Mobile,South,Basic,Yes
+22.0,2898.310039481009,366.0256730735582,47.0,4.0,3.0,Male,Monthly,,Mobile,West,Basic,
+64.0,1959.5018890191902,,5.0,9.0,6.0,Female,Quarterly,Credit Card,Mobile,North,Standard,Yes
+,,116.02527422609731,90.0,5.0,8.0,Male,Monthly,UPI,Mobile,South,,No
+19.0,3512.6912983918555,333.2083599426941,20.0,,2.0,,Monthly,,DSL,South,Premium,No
+27.0,4973.6271254952535,372.238681844564,6.0,10.0,6.0,Male,Yearly,Debit Card,DSL,East,,Yes
+47.0,3478.2763543222036,424.9705626498097,70.0,6.0,,Female,Monthly,Debit Card,DSL,West,,
+,3010.025378165112,,59.0,14.0,6.0,Female,Quarterly,,Fiber,,,
+62.0,,154.95079829201248,64.0,9.0,1.0,Female,Yearly,Credit Card,,South,,
+,2593.4252552767316,166.0210913414004,,9.0,5.0,Male,Quarterly,Credit Card,Mobile,,Premium,Yes
+,770.6405417035335,357.74755988376387,18.0,13.0,1.0,Male,Quarterly,,DSL,North,Standard,No
+,3030.335671450594,409.30583592028984,,8.0,5.0,Male,Quarterly,,Fiber,South,,No
+35.0,4809.313780274211,94.89891403951832,17.0,3.0,9.0,Female,Quarterly,,Fiber,,Basic,No
+,1288.8632406094684,188.61579903809377,14.0,1.0,2.0,Male,Yearly,Net Banking,Fiber,,Premium,Yes
+64.0,3605.0220086929958,451.46039739082926,78.0,,1.0,Male,,,DSL,,Premium,Yes
+66.0,,404.31329224889595,13.0,7.0,5.0,Female,Quarterly,Credit Card,Fiber,West,Standard,Yes
+28.0,2911.224580128866,,7.0,3.0,1.0,Male,Yearly,Net Banking,Fiber,West,Premium,
+38.0,935.0440234102383,378.35288854262996,,12.0,,Male,Quarterly,Net Banking,Fiber,East,Standard,No
+43.0,2526.669213161833,199.63162450882152,119.0,8.0,1.0,Female,Monthly,Debit Card,Mobile,East,,Yes
+42.0,3902.7349800286074,297.36572782734567,15.0,14.0,2.0,,Yearly,Net Banking,DSL,East,,No
+39.0,2064.0718590754195,332.20205585242354,19.0,14.0,2.0,Male,Yearly,Credit Card,Mobile,West,,No
+44.0,,43.83562907697635,,3.0,5.0,Female,Monthly,Debit Card,Mobile,North,Basic,No
+,4079.5248235537815,274.52599475641324,107.0,14.0,5.0,Male,Yearly,Net Banking,DSL,East,Standard,Yes
+,4672.300187657537,356.11381009394177,111.0,7.0,,Female,Monthly,Debit Card,Mobile,South,Standard,No
+50.0,1555.889368349541,87.82404548052489,108.0,8.0,,Male,Yearly,Net Banking,,East,,No
+51.0,2296.9216211418866,391.4127001256508,35.0,12.0,2.0,Female,Yearly,UPI,Fiber,South,Basic,
+58.0,1185.8720599868784,293.96752635448524,,,0.0,Male,Monthly,UPI,Fiber,West,Basic,Yes
+52.0,4966.175759712689,476.34978392030933,35.0,9.0,6.0,Female,Monthly,Credit Card,,South,,
+18.0,4671.504355659329,25.99903761241139,19.0,3.0,7.0,Female,,UPI,DSL,East,Premium,Yes
+38.0,,136.33643808995615,20.0,0.0,1.0,Female,,UPI,Mobile,,Basic,Yes
+,4289.149824693895,302.76917025341294,,14.0,,Female,Monthly,,Mobile,,Basic,
+23.0,2844.31089772419,,35.0,2.0,9.0,Female,Monthly,Net Banking,Fiber,West,,
+45.0,3306.135596012419,358.6399612152649,32.0,8.0,6.0,Female,Yearly,,Fiber,South,Premium,No
+34.0,901.0599445220748,380.70761484835583,48.0,3.0,7.0,Female,Yearly,Debit Card,Mobile,West,,No
+22.0,3898.7168922356354,55.74540221290486,44.0,4.0,0.0,,Yearly,Net Banking,,,Basic,No
+48.0,1074.7106763585566,259.35795978235,,6.0,3.0,Male,,UPI,Mobile,North,,Yes
+22.0,,256.90082501757263,24.0,,,Female,Yearly,Net Banking,Fiber,,Basic,No
+55.0,,187.79398125669283,61.0,3.0,2.0,Female,,Credit Card,Fiber,East,,
+20.0,3689.351139843394,466.7978069719877,17.0,14.0,4.0,Male,Monthly,,DSL,East,,Yes
+40.0,662.7217123614296,414.6156283372445,71.0,,9.0,Male,Yearly,Debit Card,Mobile,,Standard,No
+54.0,1864.0776017539788,,107.0,14.0,8.0,Female,Monthly,Net Banking,DSL,East,Premium,
+54.0,1684.006564598793,358.59168468882376,50.0,1.0,2.0,Male,Quarterly,,DSL,,Standard,Yes
+,2120.613833621836,233.54949118749394,65.0,,4.0,Male,Monthly,Debit Card,Fiber,West,,Yes
+27.0,894.3923604372735,,99.0,12.0,,Female,Yearly,Credit Card,Mobile,North,Standard,Yes
+36.0,4716.310203639782,348.82473649037627,32.0,,,,Quarterly,Credit Card,Fiber,West,Basic,Yes
+34.0,,365.84562551962915,36.0,9.0,3.0,Female,Quarterly,Debit Card,Mobile,East,Premium,No
+38.0,1874.859397961106,431.5369973747359,13.0,12.0,7.0,,,UPI,Fiber,East,Premium,
+31.0,2286.4168268342755,140.66543672438453,70.0,9.0,,Female,Yearly,UPI,Fiber,,Premium,No
+26.0,2512.4114322717605,404.500097414018,58.0,12.0,,,,Net Banking,Mobile,North,Standard,
+63.0,3202.6745001227778,101.64409846346356,14.0,,3.0,Male,Monthly,Net Banking,Mobile,North,,Yes
+18.0,,,,,8.0,,Monthly,Debit Card,Fiber,West,,Yes
+68.0,4637.263879464878,171.12717486357215,112.0,,,Male,Monthly,Net Banking,Mobile,,,No
+62.0,2736.335673076236,489.3701068526246,,2.0,7.0,Male,Yearly,,Fiber,,Basic,
+30.0,4964.711066704907,,111.0,14.0,5.0,,Yearly,Net Banking,,,Basic,
+21.0,4331.412309852931,352.07908148717854,68.0,13.0,2.0,,Monthly,Credit Card,Fiber,South,Premium,No
+18.0,1438.2973146080112,364.89309699961814,40.0,8.0,7.0,Male,Quarterly,Net Banking,Fiber,,Premium,
+66.0,4687.678465897623,283.2260332292727,,13.0,8.0,,Monthly,Debit Card,Fiber,,Standard,Yes
+,1023.6487904846424,,80.0,4.0,7.0,,,UPI,,,Premium,No
+,4178.523688210362,250.64808267676895,92.0,10.0,,,Yearly,Net Banking,Mobile,East,Standard,No
+,2212.80482064461,,16.0,2.0,5.0,Female,Yearly,UPI,Fiber,,Basic,
+45.0,4450.884442002813,85.70249178113754,62.0,,,Male,,Net Banking,DSL,East,Basic,
+,4406.255105483527,394.1717978692237,,12.0,3.0,Female,,Debit Card,Fiber,South,Basic,
+,,368.54974637741776,45.0,9.0,7.0,Male,Yearly,Credit Card,DSL,North,Basic,No
+,4055.1369633817762,195.25574406944676,90.0,12.0,,,Monthly,Debit Card,Fiber,,Premium,Yes
+43.0,1871.0561259411836,,28.0,3.0,2.0,Male,Yearly,Credit Card,Fiber,North,Premium,No
+,864.1367737306348,420.3036772204153,96.0,7.0,0.0,Female,Yearly,Net Banking,DSL,West,Standard,
+20.0,2313.410804443227,10.651901809766448,109.0,,8.0,Male,Quarterly,,DSL,,Standard,No
+,1280.860317439289,353.3313909163802,66.0,11.0,1.0,Female,Monthly,,Mobile,West,,Yes
+29.0,,485.27726931439827,31.0,4.0,8.0,Male,Yearly,Debit Card,Mobile,West,,No
+18.0,2057.448769420035,,3.0,,3.0,,Monthly,Debit Card,DSL,North,Standard,Yes
+61.0,4890.245903869617,121.31183547299662,118.0,11.0,1.0,Male,Quarterly,Credit Card,Mobile,East,Basic,
+22.0,3384.3743480539943,353.91114997147395,8.0,7.0,3.0,Female,,Net Banking,DSL,West,Basic,
+47.0,4201.1625363546245,409.4784302977146,24.0,8.0,,Female,Monthly,Credit Card,Mobile,South,,No
+47.0,1096.3610273383179,275.4830064585344,15.0,3.0,,Female,Monthly,Net Banking,Fiber,West,Standard,
+34.0,4379.0651702268015,483.68246125179235,43.0,6.0,6.0,,Yearly,,Mobile,,Basic,No
+65.0,4652.407357310274,30.576017220690748,31.0,1.0,2.0,Male,Quarterly,Net Banking,Fiber,,Basic,Yes
+,2691.7786346852117,254.87382116074141,73.0,5.0,2.0,Male,Quarterly,Credit Card,Fiber,South,Basic,No
+40.0,,360.6347039246623,103.0,7.0,9.0,,Quarterly,UPI,,North,,No
+,3941.6441040634795,432.0070332188436,45.0,11.0,7.0,Male,Monthly,Net Banking,DSL,West,Premium,No
+54.0,1286.7738226718566,93.73152789435608,66.0,,4.0,Female,Yearly,,Fiber,South,Standard,Yes
+38.0,,401.0017234730223,8.0,,,Male,Monthly,Credit Card,Fiber,North,,
+31.0,2293.983624975409,278.5900024806799,71.0,,,Female,,,Mobile,West,,No
+19.0,1158.682964730121,201.29407258503178,108.0,6.0,6.0,Female,Monthly,Credit Card,DSL,South,Basic,Yes
+28.0,2153.9049003118917,,,4.0,8.0,,Yearly,Debit Card,,,Basic,Yes
+68.0,,,103.0,6.0,8.0,Female,Monthly,Debit Card,Mobile,West,,No
+56.0,616.1535812726914,82.8502380489591,,12.0,4.0,Male,Quarterly,Credit Card,DSL,North,,Yes
+,1108.2483011967024,158.34499030850412,57.0,,7.0,Male,Quarterly,Credit Card,,South,Standard,
+51.0,,148.57253832140626,80.0,,,Male,Quarterly,,Mobile,West,,Yes
+55.0,2972.882911527576,436.3499469244729,,,0.0,Female,Yearly,Debit Card,Mobile,,Standard,No
+67.0,,,30.0,4.0,8.0,Male,Monthly,Debit Card,Fiber,West,,
+51.0,2446.240452485594,399.3572916097293,74.0,,,Male,Yearly,,Fiber,South,Premium,No
+,1903.1725988836681,128.981609902287,102.0,14.0,5.0,Male,Monthly,Net Banking,Fiber,East,Standard,Yes
+,,314.3126793054645,18.0,8.0,2.0,Female,Quarterly,UPI,Mobile,,Basic,Yes
+32.0,,288.0142616561556,114.0,14.0,2.0,Male,Monthly,Net Banking,Fiber,,Standard,No
+44.0,975.4910791778476,,69.0,1.0,,Female,Monthly,Net Banking,Fiber,North,,Yes
+68.0,3383.718416105928,453.51309493822396,117.0,3.0,,Female,Monthly,Credit Card,Fiber,North,Basic,Yes
+51.0,,11.017601881306469,93.0,11.0,,Male,Yearly,,Mobile,South,Premium,Yes
+69.0,3288.145797040233,338.6398599341024,39.0,6.0,6.0,Female,Monthly,UPI,Mobile,East,Basic,Yes
+,,,60.0,,4.0,Female,,Net Banking,Mobile,South,,No
+,,276.6850392132912,98.0,,7.0,Male,,Credit Card,Fiber,,Premium,No
+,776.0733219980067,147.37820087662072,43.0,1.0,9.0,Male,Yearly,,DSL,,,No
+32.0,4013.427137307979,,45.0,8.0,9.0,Male,Yearly,,Fiber,West,Standard,
+,2569.1019069619406,179.7144592089165,23.0,12.0,3.0,Female,,Credit Card,Fiber,,Basic,
+59.0,,312.539762279557,69.0,9.0,1.0,Male,Monthly,Debit Card,Mobile,South,Premium,
+68.0,,170.35473300604076,,6.0,2.0,,Quarterly,Net Banking,,,Premium,No
+,760.0125244836499,367.6860300421888,6.0,11.0,7.0,,,,Fiber,North,,Yes
+,,205.24105585906548,56.0,9.0,,Female,Quarterly,UPI,Fiber,North,Premium,
+,4926.555163685362,38.83483415342952,110.0,6.0,1.0,Female,Monthly,UPI,DSL,South,Standard,No
+21.0,1576.3104689716652,392.9611220296331,108.0,5.0,5.0,Female,Quarterly,Credit Card,DSL,South,,No
+27.0,1140.1221590923828,146.45037067338947,,2.0,8.0,,Quarterly,Credit Card,,East,Standard,Yes
+34.0,1046.23222740093,219.219605401635,,9.0,,,Quarterly,,,West,Premium,No
+27.0,1864.73816405418,344.29472219484126,23.0,,8.0,Female,Monthly,UPI,DSL,West,,
+34.0,954.7061495479102,169.56579778861246,6.0,1.0,1.0,Female,Quarterly,Debit Card,Mobile,West,Premium,
+37.0,3614.7260376235936,,32.0,10.0,,Male,,Debit Card,DSL,North,Standard,Yes
+41.0,,190.09091827134273,106.0,5.0,8.0,Male,Monthly,,Fiber,West,,
+22.0,2792.3995766740536,472.5020484336802,18.0,3.0,,Female,Yearly,Debit Card,DSL,North,Standard,Yes
+51.0,,322.6585266627863,15.0,,6.0,,Quarterly,Credit Card,Mobile,East,,Yes
+23.0,4162.866212777084,337.3821785902674,40.0,2.0,0.0,,Yearly,Credit Card,Fiber,,Basic,Yes
+19.0,3268.487472039549,317.97966605063175,96.0,,5.0,Male,,Net Banking,DSL,East,,Yes
+30.0,1878.1412935397525,103.50110878492121,73.0,10.0,6.0,,Monthly,Credit Card,,,,No
+60.0,3307.531263312373,212.07526273062865,,11.0,,Male,Yearly,Debit Card,Fiber,West,Basic,Yes
+60.0,2871.686587602432,376.71520018984256,74.0,,5.0,Male,Yearly,,DSL,,,Yes
+65.0,2417.3752275066718,55.17958428881378,84.0,13.0,1.0,,Yearly,UPI,DSL,North,,No
+28.0,1088.1966953308977,142.53712416440757,6.0,14.0,5.0,,Yearly,,Mobile,South,,
+,,141.77795869059753,112.0,,3.0,,Quarterly,,Mobile,West,,Yes
+,2524.0309196959515,218.84936915928046,63.0,7.0,8.0,Male,,Credit Card,Fiber,West,,Yes
+,1375.801303193443,490.28252676638164,,8.0,0.0,,,UPI,Mobile,South,Basic,
+33.0,2154.917078947803,38.41376060849186,,,7.0,Male,Quarterly,,Fiber,South,Standard,Yes
+48.0,2363.583886380172,261.75699221839454,11.0,,,Female,,UPI,Fiber,,Basic,Yes
+,4223.920530050935,93.78551759604417,43.0,8.0,,Female,Yearly,,Mobile,South,Basic,No
+,,485.48488997782334,17.0,11.0,3.0,,Monthly,Credit Card,,North,Basic,No
+25.0,3961.8720213860292,61.08523484009478,96.0,6.0,0.0,Male,Yearly,,Mobile,East,Premium,No
+,549.6406899289125,204.78249616898768,4.0,2.0,5.0,Female,Quarterly,Debit Card,DSL,East,Standard,No
+,2372.6929918089268,370.25306749313006,63.0,6.0,,Female,Yearly,Debit Card,Fiber,West,Standard,Yes
+21.0,2666.0486823589563,353.7544418735854,68.0,13.0,4.0,Male,Monthly,Net Banking,,West,Basic,Yes
+,586.3652457037551,214.25067526249646,,0.0,6.0,Female,Quarterly,Net Banking,Fiber,North,Premium,
+,1669.159439352654,176.52946313659552,,,1.0,Male,Monthly,Credit Card,Mobile,South,Standard,
+49.0,3921.3042040496075,201.81812738367094,83.0,5.0,5.0,Male,,Net Banking,Mobile,West,Standard,No
+20.0,1116.9936757804958,135.81675026352644,5.0,3.0,5.0,Female,Yearly,,Mobile,East,Basic,Yes
+44.0,,,32.0,,4.0,Male,Monthly,,,North,Premium,Yes
+,1468.4084240775687,244.10465029165053,86.0,13.0,4.0,Male,,Net Banking,Mobile,,Basic,No
+49.0,,137.92420925346562,70.0,,2.0,Male,Quarterly,,DSL,,Standard,No
+67.0,,147.2935241241388,35.0,0.0,9.0,Female,Monthly,Debit Card,Mobile,,,
+,4891.431897095242,330.09425141990573,22.0,8.0,9.0,,Yearly,UPI,Fiber,,Basic,No
+,,484.42597919144663,,14.0,1.0,Female,Yearly,UPI,Mobile,,Standard,
+,,303.80041427689065,,5.0,6.0,Female,Yearly,Debit Card,Fiber,East,Basic,No
+22.0,2695.343197668631,43.104836197158306,22.0,7.0,0.0,,Monthly,Debit Card,Mobile,West,Basic,No
+35.0,993.8128940487658,42.413888857763155,112.0,2.0,,Male,,Credit Card,Mobile,East,,Yes
+45.0,2965.817700381618,475.95449431855513,,7.0,5.0,Male,Yearly,,Fiber,North,Premium,Yes
+59.0,,152.15894120213014,,1.0,2.0,Female,Monthly,,Fiber,West,Standard,Yes
+39.0,4299.6068723282715,50.57315811082534,77.0,11.0,1.0,Female,Yearly,Credit Card,Fiber,,Standard,No
+38.0,941.3716135291006,301.5270706394389,106.0,3.0,1.0,,Yearly,UPI,Fiber,North,,
+23.0,2697.0851165980016,313.7061452536817,3.0,2.0,8.0,Female,Quarterly,UPI,DSL,East,Standard,
+,1175.2189911229293,326.00988595875066,,9.0,,,,Credit Card,Fiber,West,Premium,No
+22.0,1961.0416710052698,137.36400378948295,60.0,0.0,6.0,Male,Quarterly,,Mobile,South,Basic,Yes
+58.0,,12.479788686165142,76.0,14.0,4.0,Female,Monthly,,Mobile,East,Standard,Yes
+29.0,2642.081582159449,482.6826078799636,87.0,12.0,6.0,Male,Yearly,Net Banking,DSL,South,Premium,No
+43.0,2191.4972831559617,,14.0,12.0,3.0,Male,Monthly,,Fiber,West,,No
+63.0,2275.143253565159,339.63301258601103,97.0,6.0,7.0,Female,Monthly,UPI,Mobile,South,Premium,No
+51.0,2567.5104578269397,354.78178558996126,18.0,10.0,9.0,Male,Monthly,UPI,DSL,North,Premium,Yes
+,,,113.0,9.0,9.0,,Yearly,Net Banking,Mobile,,Standard,No
+31.0,4514.381100231055,159.88916013575587,105.0,1.0,6.0,Male,Quarterly,Credit Card,DSL,East,Standard,Yes
+43.0,,139.19264561321256,73.0,3.0,9.0,,Yearly,,DSL,East,,No
+62.0,4041.065238148828,,23.0,,,Female,,Net Banking,Fiber,South,,Yes
+,1919.3310308660573,433.7173386377873,74.0,5.0,5.0,Female,Quarterly,Debit Card,DSL,North,,Yes
+,3596.60617738944,473.63319581708083,83.0,7.0,4.0,Male,Monthly,,Mobile,West,,No
+43.0,2469.214058249264,57.42337317986003,47.0,1.0,,Male,,UPI,Mobile,South,Standard,Yes
+64.0,1646.0177992072304,,69.0,6.0,,Female,Yearly,,Fiber,,,Yes
+39.0,4283.922107416652,472.64444809762443,,5.0,4.0,,Quarterly,Net Banking,Fiber,East,,
+64.0,,369.5849380257223,,12.0,9.0,,,UPI,,South,Premium,
+47.0,4557.928964609406,,87.0,,2.0,Female,,,Fiber,,,No
+60.0,2576.6485908113036,105.30315389699486,30.0,,8.0,Female,Quarterly,,,,Standard,Yes
+,3367.406645637262,295.85500619915393,25.0,6.0,5.0,Female,Monthly,,Mobile,West,Standard,Yes
+,3467.092649926022,352.06409923664944,28.0,0.0,9.0,Female,Quarterly,,Fiber,,,Yes
+43.0,4528.029833179414,341.65538329625144,98.0,,,Female,Yearly,,Fiber,,,Yes
+53.0,3365.013569752433,207.03508697901557,109.0,7.0,6.0,Male,Quarterly,,Fiber,East,Premium,No
+18.0,,12.620471387197696,112.0,10.0,3.0,,Quarterly,Credit Card,DSL,West,,No
+25.0,799.9341825231048,293.54839811811024,,,2.0,,Yearly,Debit Card,DSL,North,Basic,No
+,2832.8360987534184,,25.0,14.0,7.0,,Yearly,Credit Card,Mobile,East,Basic,
+52.0,1175.7605036766874,227.87585184073072,74.0,2.0,3.0,Male,Yearly,UPI,DSL,East,,Yes
+69.0,3818.451959246685,479.0026024664896,,13.0,0.0,Male,Quarterly,,DSL,North,Standard,No
+32.0,2804.9986436570352,,106.0,1.0,5.0,,Monthly,,DSL,West,Premium,No
+,3561.02500643759,420.7017952988912,110.0,11.0,9.0,Female,Quarterly,Credit Card,DSL,North,,No
+39.0,687.5280527107292,98.3275998458793,58.0,2.0,0.0,Female,Quarterly,UPI,,,,No
+31.0,881.5640722061145,,94.0,10.0,4.0,Female,Monthly,Net Banking,Fiber,North,Premium,Yes
+43.0,3723.45524628207,488.618442447277,,5.0,6.0,Female,Yearly,,Mobile,North,Premium,No
+45.0,,55.437084932103716,,12.0,,,Quarterly,Debit Card,DSL,West,Premium,Yes
+,820.6552749436637,9.118371402460046,25.0,13.0,1.0,Male,Monthly,Debit Card,Fiber,West,Basic,No
+,554.4881385569935,219.6234823531441,78.0,2.0,3.0,,Yearly,Net Banking,Fiber,,,Yes
+,,50.849614110426764,99.0,,1.0,Female,,UPI,Fiber,South,Basic,No
+19.0,3818.787617565531,375.45025308973453,116.0,4.0,0.0,Female,Quarterly,UPI,Mobile,South,Standard,No
+62.0,,457.70158860503665,48.0,,2.0,,Yearly,Debit Card,Fiber,South,Basic,Yes
+43.0,,,,,2.0,Male,Yearly,Credit Card,Mobile,South,Standard,Yes
+,2073.664533856323,133.06226286694329,10.0,6.0,6.0,,Monthly,UPI,Mobile,,,No
+68.0,3985.9408903153185,220.02964290827185,99.0,13.0,0.0,Male,Monthly,,DSL,West,Basic,Yes
+24.0,,363.1066698357505,75.0,,8.0,,Yearly,UPI,,West,,
+,,9.481809982283634,,7.0,,Male,,,Fiber,North,Basic,Yes
+64.0,,,85.0,2.0,3.0,Male,Yearly,Debit Card,Fiber,East,Premium,
+,942.7804237102879,308.57938401925264,,3.0,2.0,,Quarterly,Credit Card,,North,Standard,No
+,,,86.0,5.0,2.0,Female,Monthly,Credit Card,Mobile,,,No
+,3939.676979997812,124.80092959053422,45.0,10.0,1.0,Female,,Net Banking,,,Premium,No
+64.0,1692.7089274625182,358.4560980721727,,6.0,1.0,Female,Yearly,UPI,DSL,East,Standard,No
+62.0,594.2523246391077,50.238785734229324,119.0,8.0,9.0,Male,Monthly,Credit Card,Mobile,South,Basic,
+35.0,869.7725036439231,103.6388165510664,81.0,12.0,4.0,Male,Monthly,UPI,DSL,West,Premium,No
+55.0,4855.370156802637,,64.0,0.0,8.0,Male,Quarterly,Net Banking,,East,Premium,No
+52.0,1829.5014986483911,370.6679596096503,64.0,,1.0,,Yearly,Debit Card,Fiber,East,Premium,
+68.0,3961.5041652716013,11.8040492356159,2.0,14.0,1.0,Male,Quarterly,Credit Card,Fiber,,Standard,Yes
+,3310.986059844187,,76.0,7.0,,,Quarterly,UPI,DSL,West,,Yes
+42.0,2218.7283784380315,111.13120908161646,,7.0,,Male,Quarterly,Credit Card,Fiber,North,,No
+54.0,,,82.0,5.0,1.0,Male,Monthly,UPI,DSL,,,No
+,1046.238881717329,127.54208628854377,,3.0,,Female,Quarterly,UPI,,,,No
+27.0,3267.5583561749,35.950516392708636,75.0,2.0,5.0,Male,Monthly,UPI,Mobile,South,,Yes
+56.0,3985.852012870046,232.17555571542607,16.0,10.0,4.0,,Monthly,,Mobile,West,Standard,
+,3397.569140935088,367.70307001915177,,,0.0,,Quarterly,Debit Card,Mobile,East,Basic,
+56.0,2886.3595996212125,305.33220373513103,,,5.0,Female,Quarterly,Credit Card,DSL,West,Standard,
+,,338.0714759560495,18.0,12.0,0.0,Female,,Debit Card,Mobile,East,Basic,Yes
+43.0,,45.16884337543838,99.0,,2.0,Male,Quarterly,UPI,Mobile,South,Standard,No
+,4094.2138624455856,475.9879015375097,117.0,6.0,9.0,Male,Yearly,UPI,Mobile,West,Standard,
+,1817.6991651543412,420.0534577522973,59.0,10.0,4.0,Male,,Debit Card,Mobile,East,,No
+,4909.866482114828,403.51970765535305,90.0,0.0,9.0,Male,Quarterly,Debit Card,DSL,,Basic,No
+30.0,3208.4671533634496,412.3769834956749,16.0,10.0,4.0,Female,Quarterly,,Mobile,North,Standard,
+37.0,3120.901961932609,466.6917015257169,6.0,5.0,9.0,,Quarterly,UPI,Fiber,,Premium,
+,3866.3293074328944,,57.0,6.0,5.0,,Yearly,,Fiber,West,Basic,
+,4152.964046405619,104.13959884447482,,11.0,9.0,Female,Yearly,Net Banking,Fiber,,Standard,No
+27.0,,310.3078858870079,107.0,6.0,7.0,Female,,,Fiber,South,Basic,Yes
+20.0,1076.4308586479,372.7263393656298,47.0,8.0,4.0,Female,Quarterly,UPI,Fiber,North,Basic,Yes
+58.0,2022.2037769752428,370.26910971024256,,10.0,,Male,Yearly,,Fiber,West,Basic,No
+,4676.376381467224,263.11726696260564,,10.0,,Male,Monthly,Net Banking,DSL,,,No
+35.0,1510.7702532973335,38.887066070121136,42.0,9.0,,Male,,Credit Card,,West,Basic,No
+64.0,2174.75160726881,188.70090452291328,76.0,4.0,3.0,,,Net Banking,Mobile,,Premium,No
+53.0,,460.77947118936186,,0.0,7.0,,Yearly,Credit Card,Fiber,West,Premium,No
+64.0,2477.3224536250345,294.30221032992586,,,,,Yearly,Net Banking,DSL,South,Premium,Yes
+,3258.2281212253647,271.4743119115781,,14.0,4.0,,Monthly,,Fiber,North,,No
+,4743.841269851184,,103.0,3.0,1.0,Male,,,Mobile,South,Premium,Yes
+64.0,1583.1172032462723,187.38221535870656,118.0,4.0,5.0,Male,Quarterly,,Mobile,East,Premium,Yes
+25.0,1046.7561933541313,448.1963141308188,2.0,8.0,5.0,Male,Yearly,UPI,DSL,,Standard,No
+57.0,,334.8992085257837,,10.0,9.0,Male,Yearly,,,East,Premium,No
+66.0,,,59.0,14.0,9.0,,Monthly,,DSL,North,Basic,
+61.0,3406.148656948427,,,0.0,5.0,Female,Monthly,Debit Card,DSL,South,Premium,
+36.0,,316.9723736307982,27.0,2.0,8.0,Female,Yearly,,Fiber,North,Premium,Yes
+59.0,4171.761225358778,127.94988632788773,79.0,4.0,7.0,Female,Quarterly,,Fiber,,Premium,
+,4376.164983635463,354.2031109903257,72.0,2.0,7.0,Male,Monthly,UPI,Mobile,West,,No
+,,216.66266018315196,7.0,3.0,0.0,Male,Yearly,Credit Card,,,Basic,Yes
+23.0,4635.169401377995,224.06002983329907,63.0,14.0,4.0,Female,Yearly,UPI,DSL,West,,Yes
+,1635.0845907801272,326.4145506655564,111.0,13.0,6.0,,Quarterly,,Fiber,East,Basic,No
+,3897.688679358252,468.4589076271187,119.0,2.0,5.0,,Quarterly,Debit Card,DSL,South,Standard,No
+,,36.683141571267356,46.0,,4.0,Female,Monthly,,,East,,No
+,4288.993488005277,413.2479024867688,63.0,13.0,7.0,Female,Monthly,Net Banking,,,Basic,Yes
+,3778.2080472272596,149.7296396540356,104.0,14.0,2.0,Male,Monthly,Credit Card,DSL,South,,No
+54.0,3994.013509248761,224.74012998065703,12.0,12.0,5.0,Female,Yearly,Debit Card,Mobile,,Basic,No
+50.0,,15.847097743629433,13.0,12.0,4.0,Female,Monthly,Debit Card,Mobile,West,Standard,No
+39.0,1298.429462613681,154.01780852798495,43.0,14.0,7.0,,Yearly,Credit Card,Fiber,,,No
+38.0,2952.6211350362223,253.80246510191458,17.0,14.0,,,Monthly,Debit Card,Mobile,West,,Yes
+23.0,4931.013827860287,32.807158286982315,,0.0,7.0,,Quarterly,UPI,,West,Basic,Yes
+,4718.246299237036,248.09238604466674,81.0,,9.0,Female,Quarterly,Debit Card,DSL,,Basic,Yes
+65.0,694.2818110865526,,36.0,7.0,1.0,Female,Yearly,,Mobile,East,,
+,1241.666670782467,57.169642963363586,85.0,3.0,8.0,Male,Quarterly,UPI,DSL,,Premium,No
+47.0,,,8.0,6.0,8.0,Male,Yearly,,Fiber,South,,No
+28.0,3766.90959493383,207.78717142111634,,1.0,9.0,,Yearly,Debit Card,Mobile,,Basic,Yes
+47.0,,329.31098868954734,90.0,1.0,9.0,,Quarterly,Net Banking,Mobile,West,Premium,
+48.0,1460.8011483980235,,80.0,5.0,5.0,Female,Yearly,UPI,Mobile,North,,
+41.0,2776.3371182832307,83.94866995797236,36.0,,3.0,Male,Quarterly,Credit Card,DSL,,,
+26.0,4283.1636260504,,28.0,1.0,,,Monthly,Net Banking,DSL,West,Basic,
+,3797.606951448128,39.8935130933566,118.0,14.0,5.0,Female,Monthly,,Mobile,,,Yes
+68.0,2940.0674247133175,96.8951189261153,93.0,14.0,4.0,Female,Quarterly,UPI,DSL,South,,Yes
+48.0,,333.78859556953927,47.0,5.0,5.0,Female,Quarterly,Debit Card,DSL,West,Premium,No
+57.0,2787.6224611232597,441.4368528625365,76.0,10.0,6.0,Male,Quarterly,Net Banking,Mobile,East,Standard,
+,1838.9680309346925,407.9922143676251,101.0,14.0,,,Quarterly,Debit Card,Mobile,East,,No
+53.0,3042.5989678655724,,30.0,1.0,8.0,Male,Monthly,,DSL,South,Premium,
+,3599.983859225408,59.66377238849582,23.0,3.0,7.0,,Yearly,Credit Card,Mobile,East,Standard,No
+,4429.9531213736345,148.14778591649517,16.0,6.0,5.0,Female,Yearly,Net Banking,Mobile,South,Premium,
+23.0,3363.3110929066165,158.35440328462215,,7.0,5.0,Male,Monthly,,Mobile,,Premium,No
+,3925.046916694211,,74.0,14.0,4.0,Female,Yearly,Debit Card,Mobile,West,Premium,Yes
+37.0,1220.3223572955785,259.92780155631294,71.0,2.0,0.0,,Monthly,Debit Card,DSL,,Premium,
+45.0,2577.0086348890545,270.0991383654379,109.0,13.0,,,Yearly,,Mobile,North,,No
+28.0,541.9922892219198,181.65855770969955,,14.0,8.0,Male,,UPI,Fiber,East,,
+21.0,1610.0548903473036,180.12563357453584,37.0,,8.0,Male,Quarterly,,,East,,No
+32.0,3769.077718008522,415.13502096351027,29.0,8.0,7.0,Female,Quarterly,,Fiber,North,,Yes
+23.0,4963.144781072136,395.69995991824436,67.0,,,Male,,Net Banking,Mobile,East,Basic,Yes
+66.0,946.3014481424716,,15.0,7.0,2.0,,Monthly,UPI,,East,Premium,Yes
+47.0,2306.724421375797,457.32527971726336,100.0,7.0,0.0,Male,Yearly,,Fiber,North,,
+55.0,4100.319359146218,476.6434334162405,47.0,12.0,7.0,Male,Yearly,Credit Card,Mobile,East,Premium,Yes
+,1418.1603558300449,166.73755830487022,46.0,13.0,6.0,Male,,,Mobile,,Standard,Yes
+19.0,2997.8822718602883,180.44034965256216,52.0,3.0,4.0,Female,Monthly,Debit Card,,East,Premium,Yes
+,3798.8208321335364,255.28890594386962,19.0,0.0,9.0,Female,Yearly,Net Banking,Fiber,West,Premium,No
+,3271.934526170806,470.8548022041684,77.0,,,,Quarterly,UPI,DSL,East,Standard,No
+,1346.1113057693726,438.7781194054442,106.0,0.0,9.0,,,,DSL,West,Premium,No
+43.0,2099.2305590858277,55.77114147887695,,1.0,3.0,Female,Quarterly,Net Banking,Mobile,West,Premium,Yes
+68.0,4027.0630301842875,199.40171791935103,64.0,13.0,8.0,Male,Monthly,,DSL,East,Basic,Yes
+,2994.019313594075,278.91873892613705,37.0,14.0,9.0,,Quarterly,UPI,DSL,,Standard,No
+61.0,523.5332609431073,254.05057391301233,27.0,11.0,1.0,Female,Quarterly,UPI,Mobile,,Premium,
+22.0,3924.4584201264224,100.96221862876187,55.0,13.0,8.0,,Quarterly,UPI,Fiber,,Premium,Yes
+23.0,658.9010972310758,430.11430172823657,116.0,8.0,8.0,Male,Monthly,Debit Card,,East,,No
+43.0,3855.8020222905448,340.0856875834345,29.0,12.0,4.0,,Monthly,,,North,,No
+21.0,1411.1625207435684,419.7646455516428,20.0,1.0,0.0,Male,Monthly,Net Banking,Fiber,North,,No
+36.0,4811.330660537211,430.0883182779887,25.0,1.0,,Female,Monthly,,DSL,South,,No
+37.0,,375.43614756454116,70.0,5.0,9.0,,Yearly,Credit Card,Fiber,,,Yes
+50.0,,222.4092476186101,63.0,,9.0,,Monthly,Net Banking,DSL,East,Basic,No
+,1169.996226496001,,36.0,12.0,3.0,Female,Quarterly,Net Banking,Mobile,East,,No
+66.0,1875.2189697059669,84.38087602927286,,,8.0,Male,Monthly,,DSL,North,Premium,
+29.0,4444.928428226903,338.4544816500793,22.0,,,,,,DSL,,Basic,No
+64.0,4983.504519322613,93.73036159094397,,12.0,2.0,Male,Yearly,,Fiber,West,Premium,Yes
+18.0,2157.3928872808174,348.5050473025276,16.0,,5.0,Male,Yearly,,DSL,South,Standard,No
+43.0,2518.7478392954417,118.65108957321449,18.0,5.0,,Male,Quarterly,,Mobile,East,,No
+,3749.3192219123166,63.18789357435889,,13.0,5.0,Female,Monthly,Debit Card,Mobile,,Premium,No
+55.0,4487.881012092836,86.81582262076392,54.0,7.0,4.0,Female,Monthly,Debit Card,Mobile,South,,
+,3168.6995038405285,5.986106933439783,100.0,10.0,,Female,Monthly,Debit Card,Fiber,,Basic,No
+28.0,2261.865641800232,360.77611083749747,30.0,5.0,9.0,Male,Quarterly,Net Banking,Fiber,South,,Yes
+53.0,2356.798283818807,,,1.0,,,,UPI,DSL,North,Premium,No
+,,,19.0,0.0,1.0,Male,Yearly,Credit Card,DSL,West,,
+60.0,,84.87458652241493,87.0,4.0,6.0,,Yearly,UPI,DSL,West,Basic,Yes
+20.0,3288.152018569283,46.35939706779143,34.0,13.0,1.0,Male,Monthly,Debit Card,Fiber,,,No
+,2099.7185469861083,,,8.0,5.0,Male,Quarterly,Net Banking,Fiber,West,Standard,Yes
+23.0,,87.04534759778424,43.0,7.0,4.0,Female,Quarterly,Net Banking,DSL,East,Premium,No
+67.0,918.4578792040948,445.97348981665766,62.0,13.0,3.0,Female,Monthly,UPI,Fiber,South,Basic,
+,3146.910201267757,,118.0,12.0,6.0,,Monthly,UPI,Fiber,East,Premium,Yes
+,2664.378004487557,180.36430697252175,93.0,3.0,7.0,Male,Yearly,Credit Card,Mobile,,Standard,No
+40.0,,57.14601481825993,100.0,4.0,3.0,Male,Yearly,Net Banking,Mobile,East,,Yes
+27.0,791.8411751733576,115.06884585034429,22.0,,0.0,Male,Yearly,UPI,,West,Basic,No
+,3109.927043426591,262.01616253620153,52.0,4.0,,Female,Monthly,Credit Card,DSL,East,,Yes
+,3026.6806458178567,,,5.0,,Female,Monthly,Debit Card,Mobile,North,Premium,Yes
+30.0,3022.9704248727694,126.44939551227448,,2.0,0.0,,Yearly,UPI,Fiber,,,No
+57.0,3215.6944996840466,33.57741881643302,36.0,4.0,4.0,,Yearly,Debit Card,DSL,South,Standard,
+,3544.10571751863,198.56127021806233,,1.0,3.0,Male,Quarterly,Credit Card,DSL,North,Premium,No
+37.0,,120.9306686085354,103.0,9.0,,Male,Quarterly,Debit Card,DSL,South,Premium,
+18.0,1714.1932405769646,113.67919199875196,,0.0,2.0,,Yearly,,,South,Premium,
+54.0,,480.1320873431604,19.0,10.0,6.0,Male,Yearly,Net Banking,Mobile,,,
+,2742.1505701855413,310.06874053323344,38.0,0.0,7.0,,Quarterly,Debit Card,DSL,North,,
+34.0,846.7622561044902,280.6548293701875,70.0,9.0,5.0,Male,Yearly,Net Banking,Mobile,North,Premium,
+,763.4791815979064,210.80867624404436,116.0,6.0,9.0,Male,Quarterly,Credit Card,Mobile,,,No
+28.0,2004.0724341322737,217.3274450479214,111.0,1.0,0.0,,Quarterly,Net Banking,Fiber,North,Basic,
+32.0,4032.036397001604,272.74797689985,79.0,3.0,7.0,Female,Quarterly,Debit Card,,,Standard,Yes
+41.0,3684.564206334121,349.7327544828731,57.0,4.0,,Female,Monthly,Debit Card,Fiber,South,Standard,Yes
+55.0,,352.56231761000555,20.0,6.0,2.0,Male,Monthly,Debit Card,Fiber,West,,
+52.0,2827.7107539872422,89.98848431419754,,1.0,7.0,Female,Yearly,UPI,Fiber,North,Basic,Yes
+47.0,2480.8954907997077,252.55581227793036,32.0,13.0,,Male,Quarterly,Debit Card,Fiber,,Basic,No
+,1163.5363701782778,,,5.0,7.0,Male,Monthly,Credit Card,DSL,North,Basic,No
+66.0,,,,0.0,,,Yearly,Net Banking,Mobile,West,Premium,No
+,2453.0871477824385,317.5523660030963,82.0,6.0,2.0,Male,Yearly,,Fiber,North,,No
+61.0,898.7019335582775,268.589512875911,5.0,,5.0,,Yearly,,DSL,North,Basic,No
+67.0,1492.7537872004507,62.1203478785641,20.0,4.0,8.0,,Yearly,UPI,,,,No
+31.0,3192.013823286825,304.79075521508867,87.0,4.0,,Male,Yearly,Credit Card,Fiber,,,Yes
+28.0,3810.4840140763545,63.01593331171554,75.0,3.0,,Male,Quarterly,Debit Card,Fiber,,,No
+26.0,,,37.0,,9.0,Male,Yearly,UPI,DSL,West,Basic,Yes
+51.0,,75.70677258309428,22.0,,2.0,Male,Quarterly,Net Banking,Mobile,North,Standard,
+29.0,3391.543397908362,347.5764552770626,58.0,,3.0,,,UPI,Fiber,North,,Yes
+,2395.6162398233237,107.09479634889554,68.0,7.0,,Female,Yearly,UPI,,East,Basic,
+52.0,3362.7981411870473,198.97038972807286,93.0,,2.0,Male,Monthly,Debit Card,DSL,South,,Yes
+18.0,,448.35901492129545,44.0,4.0,9.0,Female,Quarterly,UPI,Fiber,,Premium,No
+57.0,1032.512859155243,106.1366097824903,34.0,9.0,1.0,Male,,Credit Card,,,,Yes
+,,256.36350665959566,77.0,8.0,1.0,Male,Monthly,,DSL,,Standard,Yes
+46.0,4279.110285360277,212.5394722771809,42.0,1.0,6.0,,,Debit Card,DSL,South,,No
+,2227.2482836986983,13.971400317636217,,,8.0,Male,Yearly,Net Banking,Fiber,North,Standard,Yes
+,3073.4252205223393,397.41526621854234,106.0,10.0,9.0,Female,Monthly,Credit Card,Mobile,East,,Yes
+,3144.962123879892,39.17772362572686,95.0,3.0,,Female,,Credit Card,Fiber,,Standard,No
+54.0,1330.143139101377,239.75623538359204,7.0,5.0,6.0,,Monthly,UPI,,West,,Yes
+31.0,2130.059487435298,282.53575599478023,68.0,,6.0,Female,Yearly,,Mobile,East,,
+47.0,2005.3007993386946,316.0710960242206,19.0,,6.0,,,UPI,,South,Standard,No
+,,345.8726565073984,106.0,1.0,2.0,Female,,Net Banking,Mobile,East,Premium,Yes
+38.0,608.8629375110986,130.36982984374396,94.0,,6.0,Male,Monthly,Credit Card,DSL,West,,Yes
+54.0,4242.636696540981,9.93949444593244,31.0,12.0,0.0,Male,Yearly,,DSL,North,,Yes
+22.0,,363.1046128656814,,,9.0,Female,Quarterly,UPI,Mobile,,,
+36.0,2831.3544480746696,270.1500166770514,,10.0,0.0,Male,Monthly,Net Banking,DSL,South,Basic,No
+31.0,,418.87826308758815,85.0,,4.0,Female,Yearly,,Fiber,,Premium,
+43.0,4733.056603019032,411.5872396358437,61.0,0.0,1.0,Female,Monthly,,Mobile,North,Standard,No
+21.0,1666.8354148959818,,31.0,1.0,,Female,,Debit Card,Fiber,West,Premium,
+42.0,2433.4556573252075,245.12185668987237,,6.0,6.0,Female,Quarterly,Credit Card,Mobile,East,Premium,Yes
+62.0,,170.1460559392485,95.0,0.0,3.0,Female,Monthly,Net Banking,Fiber,North,Standard,No
+59.0,,396.8213102827281,53.0,14.0,3.0,Male,Monthly,,Mobile,West,Standard,No
+42.0,1337.4563803082478,228.3905859494812,32.0,0.0,,,Quarterly,Credit Card,Fiber,West,Standard,Yes
+35.0,,95.80388721970009,66.0,0.0,,Female,Monthly,Net Banking,Mobile,,,Yes
+57.0,2561.840990320517,428.2121396829298,59.0,,3.0,,Quarterly,UPI,Mobile,,Basic,Yes
+,2673.3599243840986,441.8671390023119,116.0,3.0,0.0,,Quarterly,,DSL,South,Premium,
+56.0,1100.6598758717469,235.82332928938422,10.0,3.0,7.0,,Yearly,Credit Card,Fiber,North,Standard,Yes
+,862.7068119070609,42.4713650183448,2.0,12.0,2.0,Male,Monthly,,DSL,South,,
+,3775.7268813819433,196.97391450888097,66.0,,,Male,Monthly,,Fiber,West,Premium,Yes
+,2734.0751855988487,402.75114143398866,60.0,10.0,3.0,,Yearly,UPI,,East,Premium,No
+68.0,,451.3781441303832,88.0,,8.0,Male,Quarterly,UPI,Mobile,,Premium,No
+55.0,3782.787028935785,105.71900753630995,,10.0,6.0,Female,Monthly,Credit Card,DSL,,Premium,No
+50.0,3944.808045459994,38.15193795250941,96.0,0.0,8.0,Male,Yearly,,DSL,North,Standard,No
+40.0,1215.086754512091,439.2884743007551,16.0,11.0,9.0,,,Net Banking,Mobile,East,Basic,No
+32.0,3246.013172649386,197.75544479454328,16.0,9.0,2.0,,Monthly,Credit Card,,South,Standard,
+50.0,1109.093370249585,273.1716773124438,,8.0,0.0,Female,,UPI,Mobile,,Standard,No
+42.0,,484.1925769651257,39.0,6.0,4.0,Male,Quarterly,,Fiber,West,Standard,
+34.0,3456.2982032021278,37.94954031754031,,3.0,2.0,Female,,,,North,Basic,Yes
+,,325.9174136887873,31.0,,5.0,Male,Quarterly,,Mobile,,Basic,
+64.0,810.3110736038952,41.682184174559204,107.0,,7.0,Female,,Credit Card,Mobile,North,Basic,No
+19.0,756.7462451806445,,88.0,13.0,,,Monthly,UPI,DSL,West,Standard,No
+31.0,1769.8418361194006,402.8881998707561,1.0,1.0,4.0,Female,Yearly,UPI,Fiber,West,Basic,Yes
+57.0,1677.6755768115768,,11.0,6.0,,Female,Quarterly,Net Banking,DSL,West,,Yes
+57.0,1611.4045958239992,498.6052651819605,119.0,1.0,,,Quarterly,UPI,,South,,No
+68.0,4578.145612344665,281.73434604856806,85.0,9.0,3.0,,Yearly,Net Banking,Fiber,South,,
+56.0,,,,7.0,3.0,Male,Quarterly,UPI,,West,Standard,
+68.0,1723.7737675788394,,71.0,7.0,3.0,Male,Yearly,Net Banking,Mobile,West,,No
+,,,26.0,,3.0,Female,Monthly,Debit Card,DSL,South,,No
+23.0,,189.40397051097764,111.0,12.0,,,Quarterly,UPI,,South,Basic,No
+20.0,,39.013270473360684,50.0,7.0,1.0,,Quarterly,UPI,Fiber,South,,
+24.0,794.1477090397336,187.93922871625273,12.0,1.0,1.0,Female,Yearly,,Fiber,East,,No
+68.0,,234.79806727091633,95.0,5.0,8.0,Female,Yearly,,Fiber,South,Standard,Yes
+,651.2612008247718,362.75518735820833,81.0,12.0,1.0,Female,Yearly,UPI,Fiber,West,Basic,No
+,781.9394155490954,330.0810949371959,97.0,,5.0,Male,Yearly,,DSL,,Basic,No
+69.0,4578.968540049849,355.83899933843134,75.0,,1.0,Male,Quarterly,Credit Card,Fiber,South,Basic,No
+32.0,,9.140022529044263,,10.0,4.0,,Monthly,,Fiber,West,Basic,Yes
+64.0,2895.893070238477,112.74536279236534,96.0,6.0,3.0,Male,Monthly,,Mobile,North,,Yes
+,2349.9302117031793,332.53372275792896,65.0,12.0,6.0,,,,Fiber,East,,No
+50.0,2063.044968164792,244.57473724897483,47.0,9.0,,,Monthly,,,West,Standard,
+,4549.250055592726,7.6301704558312435,92.0,,5.0,,Yearly,,Mobile,North,Standard,
+47.0,598.2052854897028,403.2248480037521,53.0,14.0,9.0,Female,Quarterly,Credit Card,Mobile,West,Standard,Yes
+56.0,,387.540738778717,106.0,,,Female,Quarterly,UPI,,South,Premium,
+44.0,4835.274953960977,276.4674856818135,71.0,6.0,0.0,Male,Quarterly,Credit Card,DSL,South,,No
+53.0,,37.8993462592547,,5.0,2.0,Male,Yearly,,Mobile,North,Premium,No
+,4715.701079148913,384.4249495186294,106.0,2.0,8.0,,,Debit Card,DSL,South,Standard,No
+55.0,735.160456787107,293.93822592702514,24.0,13.0,0.0,Male,Yearly,Credit Card,Fiber,,Basic,
+50.0,2384.569935833726,392.0701886931898,4.0,9.0,4.0,Female,Quarterly,,DSL,North,Basic,No
+,,377.114761235941,108.0,1.0,1.0,,Monthly,Net Banking,,West,Basic,No
+,3788.694342413284,402.48602561912935,,9.0,,Female,Yearly,,Fiber,West,Premium,
+50.0,4915.83690723761,261.4139928702893,26.0,3.0,0.0,Female,Quarterly,Net Banking,,,Standard,No
+,,74.46063650578992,75.0,2.0,2.0,,Monthly,Debit Card,DSL,South,Standard,No
+,3443.785706633335,337.2229493229459,,6.0,9.0,Female,Monthly,Net Banking,Mobile,South,,No
+19.0,1391.4393474188305,312.13452360072546,50.0,7.0,6.0,Male,Monthly,UPI,DSL,West,Premium,
+27.0,3043.9861455722444,372.41532766354817,43.0,1.0,9.0,,Yearly,UPI,DSL,,Premium,No
+22.0,2587.696190097513,89.09109799511397,75.0,9.0,2.0,Female,Yearly,Credit Card,DSL,West,Premium,No
+27.0,,101.51272395064316,109.0,6.0,3.0,Female,Quarterly,Net Banking,Fiber,,,No
+,3238.3727271340995,445.7527110235676,67.0,7.0,1.0,Female,,UPI,,North,,No
+55.0,,376.23901023377505,,5.0,2.0,Male,,Credit Card,Fiber,West,,Yes
+,1013.4310319957002,454.5731019066598,,5.0,8.0,Female,Quarterly,Debit Card,Mobile,South,Premium,
+48.0,1180.6107293072055,380.56408397614075,106.0,9.0,2.0,Male,Monthly,UPI,Mobile,North,,No
+,1513.9261847805578,300.59187646519945,27.0,0.0,4.0,Female,Quarterly,Credit Card,Mobile,East,Premium,No
+53.0,1629.349976031341,328.79570482879745,,3.0,,Female,Yearly,,Fiber,,Basic,Yes
+62.0,,445.11832235030494,54.0,,,Female,Quarterly,Net Banking,DSL,East,Premium,No
+,3025.5025472713623,291.50934348341053,66.0,,6.0,Male,Monthly,,Mobile,North,Standard,No
+69.0,2855.259101184649,,,3.0,6.0,Female,Yearly,Net Banking,Mobile,North,Premium,
+,1016.4599234114786,82.45597442178229,16.0,1.0,,Female,Yearly,,Fiber,East,Premium,
+46.0,,239.59100395747083,2.0,10.0,4.0,Female,Quarterly,Net Banking,Mobile,South,Standard,No
+25.0,3752.6643644381766,359.616570419259,60.0,12.0,0.0,Female,Quarterly,,DSL,South,,No
+,804.5076285500071,139.11663566660087,,4.0,9.0,Female,Yearly,,Fiber,,Premium,Yes
+46.0,3685.257937533959,105.11581935964479,30.0,9.0,,Male,Quarterly,,Fiber,North,Standard,Yes
+,,160.3442700710857,,13.0,9.0,,,Net Banking,DSL,,,
+21.0,,124.54281085645256,38.0,8.0,0.0,Female,Quarterly,,DSL,North,Basic,Yes
+29.0,2562.352886878954,111.38175533301595,28.0,10.0,4.0,,Quarterly,UPI,DSL,,Standard,
+62.0,2681.1332920852115,215.30116721970305,25.0,14.0,,Male,Yearly,Debit Card,Mobile,,Standard,
+19.0,,454.38006437234935,96.0,11.0,8.0,,Quarterly,Credit Card,DSL,South,,
+,4755.64166150127,255.99452513566555,10.0,,0.0,Male,Quarterly,,Fiber,West,Premium,Yes
+48.0,4324.889171662979,98.0205885035849,,,0.0,Female,Quarterly,UPI,DSL,North,,
+68.0,3510.6005179809877,,,7.0,,Female,Monthly,UPI,Fiber,North,,Yes
+,2580.3300245027326,349.597291843273,40.0,2.0,3.0,Male,,,Fiber,,Standard,
+53.0,2352.944937130288,194.48538839601198,97.0,5.0,,,Monthly,Credit Card,Mobile,East,Standard,
+53.0,3429.380602179294,411.8063185597528,77.0,3.0,8.0,Male,Monthly,Credit Card,DSL,North,,Yes
+43.0,2954.443412331075,331.45783047718123,105.0,7.0,8.0,Male,Monthly,Debit Card,Mobile,West,Premium,No
+,,399.1395180179774,118.0,10.0,1.0,Male,Monthly,,DSL,North,Standard,Yes
+,2806.2619194664926,139.61328951213213,42.0,,8.0,,Yearly,Net Banking,,North,Standard,Yes
+22.0,4128.816277547778,,47.0,7.0,5.0,Male,Monthly,Net Banking,DSL,,Basic,
+37.0,2566.579449186311,135.7106824233908,37.0,0.0,7.0,Male,Quarterly,,DSL,East,Basic,No
+28.0,733.8045989942078,469.83889732789436,118.0,5.0,,,Monthly,Net Banking,DSL,,Basic,No
+,4038.251897228149,,80.0,,3.0,,Quarterly,Debit Card,Fiber,South,Premium,Yes
+57.0,1406.1370196118846,165.63334108679433,109.0,0.0,1.0,,Monthly,Debit Card,Fiber,North,Standard,Yes
+55.0,1663.7937569961746,138.40837183467497,22.0,7.0,1.0,Female,Yearly,Credit Card,DSL,West,,Yes
+,1241.1785904453316,99.50865961046354,57.0,14.0,,Female,,Credit Card,Fiber,West,Standard,
+,1985.967791921739,348.84727465239524,84.0,6.0,0.0,Female,Monthly,Credit Card,,South,Basic,
+40.0,,,114.0,2.0,,Male,Yearly,Credit Card,Mobile,,Standard,Yes
+64.0,2837.236367767718,299.6751166341071,,5.0,2.0,Female,Monthly,Credit Card,,East,Standard,
+43.0,1421.9657336782066,135.9943383280519,27.0,14.0,,Male,Quarterly,Net Banking,DSL,West,Standard,Yes
+63.0,4450.235351684183,332.67462767296496,,8.0,,Female,Monthly,Net Banking,DSL,,,Yes
+60.0,4458.118347281881,408.3951656275669,80.0,6.0,9.0,,Monthly,Credit Card,Fiber,,Standard,Yes
+,4417.602912707031,,34.0,11.0,5.0,,,Debit Card,Fiber,,Premium,No
+43.0,1574.5829512169269,381.62140881073697,32.0,2.0,9.0,Female,Yearly,Net Banking,Fiber,North,Standard,Yes
+30.0,2530.5770488144462,97.92259081766477,90.0,13.0,1.0,Female,,Debit Card,Mobile,West,Premium,No
+57.0,4932.453452633938,,,13.0,,Male,Monthly,Debit Card,Mobile,East,Standard,Yes
+,3974.0561433949565,350.97967010125586,66.0,,3.0,Female,,,,East,Premium,Yes
+42.0,622.2533955150192,187.3318708282039,12.0,5.0,9.0,Female,Monthly,UPI,,North,,Yes
+50.0,,219.01138206965692,40.0,,,,Monthly,Credit Card,Fiber,North,,Yes
+64.0,,20.418800932728576,,,8.0,Male,Monthly,Debit Card,DSL,South,Standard,Yes
+57.0,4591.4909263770205,133.49034239114934,76.0,,,,,,DSL,North,,Yes
+60.0,2924.158090787214,,90.0,,3.0,Female,Quarterly,UPI,,,Basic,
+29.0,2740.156286154306,440.1969574376176,73.0,2.0,,,Quarterly,UPI,DSL,East,,Yes
+61.0,,125.48135819317258,10.0,8.0,,Female,Yearly,,DSL,East,Premium,Yes
+53.0,,280.881898938639,96.0,9.0,,Female,Monthly,UPI,DSL,,,
+,,24.294763727259554,98.0,1.0,4.0,,Yearly,UPI,Mobile,,Basic,
+21.0,2211.8900337840305,335.08945869630077,,0.0,7.0,Female,Yearly,Net Banking,Fiber,South,Standard,Yes
+22.0,3990.253329163974,164.89853614827646,20.0,14.0,1.0,Male,Monthly,Debit Card,Fiber,North,Premium,
+54.0,4840.144942553652,449.4699975440446,39.0,13.0,,Female,Quarterly,UPI,DSL,,,
+25.0,,444.61850352234774,60.0,1.0,,Female,Quarterly,Debit Card,Fiber,West,Basic,Yes
+59.0,2854.983340376336,,66.0,6.0,,Male,Monthly,UPI,Fiber,East,,
+,1792.1208113805899,450.9756433667816,,9.0,8.0,Female,Monthly,,Mobile,,,
+,,498.0980483818955,51.0,0.0,9.0,Female,Quarterly,,Mobile,East,,Yes
+,3099.1701464652087,413.5807537413543,,5.0,0.0,Male,,UPI,DSL,East,,No
+,,,24.0,13.0,2.0,Female,Monthly,Net Banking,DSL,North,Standard,No
+68.0,4090.6137182715233,128.2593243739995,118.0,6.0,1.0,Male,Monthly,UPI,,South,Standard,Yes
+46.0,2281.867126981047,290.4676874345894,27.0,,,Male,Quarterly,Debit Card,Mobile,East,Basic,Yes
+31.0,4617.905307831695,38.29167741384709,2.0,,9.0,,Yearly,,Fiber,West,Standard,Yes
+57.0,,51.984378726726504,31.0,13.0,8.0,Male,Yearly,Debit Card,Mobile,,,
+58.0,1210.7967027590662,,57.0,7.0,8.0,Female,Monthly,,Mobile,North,Basic,
+39.0,3631.546031759611,166.6864284658259,78.0,5.0,9.0,,Quarterly,UPI,,West,Basic,Yes
+,4069.676076972145,375.35103646417895,66.0,2.0,1.0,Female,Monthly,,Fiber,West,Basic,No
+40.0,1925.42754680387,404.29920124827413,,7.0,2.0,,Quarterly,Credit Card,DSL,,,No
+18.0,4357.306656494388,429.72151914857847,,6.0,,Female,Monthly,,Fiber,,Premium,Yes
+63.0,4577.644646445949,498.8260072140675,12.0,2.0,8.0,Female,Quarterly,Net Banking,Fiber,West,,No
+54.0,1746.0701932001402,124.54076020214958,,,2.0,Female,Quarterly,UPI,Fiber,,Standard,
+38.0,4925.8466272185,24.973659295551354,28.0,,,Female,Yearly,,Fiber,,Standard,No
+,1133.201876219413,208.53980140732006,84.0,1.0,2.0,Male,,Net Banking,DSL,,Premium,Yes
+63.0,1409.0705078112048,69.38993156532874,103.0,2.0,6.0,,Yearly,,DSL,South,,Yes
+53.0,1329.0117765711175,16.10081513521729,24.0,,6.0,Female,Yearly,Net Banking,Fiber,,,
+40.0,,183.41127943503562,21.0,12.0,,Male,Quarterly,Credit Card,Fiber,,,No
+18.0,,392.95043428224204,,0.0,1.0,Female,Monthly,UPI,DSL,South,,Yes
+68.0,1184.469274500228,,110.0,3.0,5.0,Female,Quarterly,,DSL,,,
