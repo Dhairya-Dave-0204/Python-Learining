@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
