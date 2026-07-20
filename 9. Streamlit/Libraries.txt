@@ -1,0 +1,16 @@
+pip install streamlit
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install matplotlib
+pip install seaborn
+pip install Plotly
+
+
+pip install pyttsx3
+pip install pydub
+
+
+for mac: pip3 install libraryname
+for windows: python -m pip install libraryname
+run streamlit: python3 -m streamlit run filename.py
