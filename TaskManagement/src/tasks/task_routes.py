@@ -1,10 +1,11 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends
 
 from src.tasks import task_controller
 from src.tasks.task_dtos import TaskSchema
+from src.utils.db import get_db
 
 task_routes = APIRouter(prefix= "/tasks")
-
+    
 @task_routes.post("/create")
-def create_task(body: TaskSchema):
-    return task_controller.create_task(body)
+def create_task(body: TaskSchema, db = Depends(get_db)):
+    return task_controller.create_task(body, db)

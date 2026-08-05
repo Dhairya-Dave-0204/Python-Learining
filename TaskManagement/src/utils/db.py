@@ -24,8 +24,5 @@ def get_db():
     session = Local_Session()
     try:
         yield session
-    except:
-        print("Error in connecting to the DB")
-        # return { "status": False, "message": "Error in getting the DB session" }
     finally:
         session.close()
