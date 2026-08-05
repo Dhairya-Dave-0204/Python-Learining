@@ -1,2 +1,4 @@
-def create_task():
-    return { "status": True, "message": "Task created successfully!" }
+from src.tasks.task_dtos import TaskSchema
+
+def create_task(body: TaskSchema):
+    return { "status": True, "message": "Task created successfully!", "data": body }
