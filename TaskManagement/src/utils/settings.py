@@ -17,3 +17,5 @@ def DB_CONNECTION(self) -> str:
     """
 
     return f"postgresql://{self.POSTGRE_USER}:{self.POSTGRE_PASSWORD}@{self.POSTGRE_HOST}:{self.POSTGRE_PORT}/{self.POSTGRE_DB}"
+
+settings = Setting()
