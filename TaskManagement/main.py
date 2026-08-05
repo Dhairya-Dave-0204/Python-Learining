@@ -1,5 +1,9 @@
-from fastapi import FastApi
+from fastapi import FastAPI
 
-app = FastApi(
+from src.utils.db import Base, engine
+
+Base.metadata.create_all(engine)
+
+app = FastAPI(
     title = "Task Management App"
 )

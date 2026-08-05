@@ -14,6 +14,7 @@ def get_db():
     try:
         yield session
     except:
-        return { "status": False, "message": "Error in getting the DB session" }
+        print("Error in connecting to the DB")
+        # return { "status": False, "message": "Error in getting the DB session" }
     finally:
         session.close()
