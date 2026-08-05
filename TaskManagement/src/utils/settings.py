@@ -9,13 +9,13 @@ class Setting(BaseSettings):
     POSTGRE_PORT: str = "5432" # You can provide a default value if you want
     POSTGRE_DB: str
 
-@property
-def DB_CONNECTION(self) -> str:
-    """
-        Dynamically builds the database URL.
-        Format: postgresql://user:password@host:port/database
-    """
+    @property
+    def DB_CONNECTION(self) -> str:
+        """
+            Dynamically builds the database URL.
+            Format: postgresql://user:password@host:port/database
+        """
 
-    return f"postgresql://{self.POSTGRE_USER}:{self.POSTGRE_PASSWORD}@{self.POSTGRE_HOST}:{self.POSTGRE_PORT}/{self.POSTGRE_DB}"
+        return f"postgresql://{self.POSTGRE_USER}:{self.POSTGRE_PASSWORD}@{self.POSTGRE_HOST}:{self.POSTGRE_PORT}/{self.POSTGRE_DB}"
 
 settings = Setting()
