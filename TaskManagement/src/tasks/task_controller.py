@@ -33,3 +33,18 @@ def get_task_by_id(task_id: int, db:Session):
         raise HTTPException(404, detail= "No task found for this ID")
 
     return { "status": True, "message": "Task retrieved successfully!", "data": task }
+
+def update_task_by_id(body: TaskSchema, task_id: int, db: Session):
+    task = db.query(TaskModel).get(task_id)    
+    if not task:
+        raise HTTPException(404, detail= "No task found for this ID")
+
+    task.title = body.title
+    task.description = body.description
+    task.is_complete = body.is_complete
+
+    db.add(task)
+    db.commit()
+    db.refresh(task)
+
+    return { "status": True, "message": "Task updated successfully!", "data": task }
