@@ -1,4 +1,5 @@
 from sqlalchemy.orm import Session
+from fastapi import HTTPException
 
 from src.tasks.task_dtos import TaskSchema
 from src.tasks.task_model import TaskModel
@@ -24,3 +25,11 @@ def get_tasks(db:Session):
         return { "status": True, "message": "Tasks retrieved successfully!", "data": tasks }
     except:
        print("Error in getting all tasks")
+
+def get_task_by_id(task_id: int, db:Session):
+    task = db.query(TaskModel).get(task_id)
+
+    if not task:
+        raise HTTPException(404, detail= "No task found for this ID")
+
+    return { "status": True, "message": "Task retrieved successfully!", "data": task }
