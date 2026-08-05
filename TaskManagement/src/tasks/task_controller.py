@@ -16,3 +16,11 @@ def create_task(body: TaskSchema, db: Session):
     db.refresh(new_task)
 
     return { "status": True, "message": "Task created successfully!", "data": new_task }
+
+def get_tasks(db:Session):
+    try:
+        tasks = db.query(TaskModel).all()
+       
+        return { "status": True, "message": "Tasks retrieved successfully!", "data": tasks }
+    except:
+       print("Error in getting all tasks")

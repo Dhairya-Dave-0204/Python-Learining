@@ -9,3 +9,7 @@ task_routes = APIRouter(prefix= "/tasks")
 @task_routes.post("/create")
 def create_task(body: TaskSchema, db = Depends(get_db)):
     return task_controller.create_task(body, db)
+
+@task_routes.get("/all-tasks")
+def get_tasks(db = Depends(get_db)):
+    return task_controller.get_tasks(db)
