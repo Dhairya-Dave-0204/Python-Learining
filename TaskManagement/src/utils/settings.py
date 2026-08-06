@@ -9,6 +9,10 @@ class Setting(BaseSettings):
     POSTGRE_PORT: str = "5432" # You can provide a default value if you want
     POSTGRE_DB: str
 
+    JWT_SECRET_KEY: str
+    ALGORITHM: str
+    EXP_TIME: int
+
     @property
     def DB_CONNECTION(self) -> str:
         """
