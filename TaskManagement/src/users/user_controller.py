@@ -2,7 +2,7 @@ from sqlalchemy.orm import Session
 from fastapi import HTTPException
 from pwdlib import PasswordHash
 
-from src.users.user_dtos import UserSchema
+from src.users.user_dtos import UserSchema, LoginSchema
 from src.users.user_model import UserModel
 
 password_hash = PasswordHash.recommended()
@@ -33,3 +33,7 @@ def register_user(body: UserSchema, db: Session):
     db.refresh(new_user)
     
     return { "status": True, "message": "User registration successful!", "data": new_user }
+
+def login_user(body, db:Session):
+    print(body)
+    return { "status": True, "message": "User login successful!", "data": "" }
