@@ -1,8 +1,9 @@
 from sqlalchemy.orm import Session
-from fastapi import HTTPException
+from fastapi import HTTPException, Request
 from pwdlib import PasswordHash
 import jwt
 from datetime import datetime, timedelta
+from jwt.exceptions import InvalidTokenError
 
 from src.users.user_dtos import UserSchema, LoginSchema
 from src.users.user_model import UserModel
@@ -48,13 +49,13 @@ def login_user(body:LoginSchema, db:Session):
     if not verify_password(body.password, user.password):
         raise HTTPException(401, "Incorrect password for this user")        
 
-    exp_time = datetime.now() + timedelta(minutes= settings.EXP_TIME)
+    exp_time = datetime.now() + timedelta(seconds=20)
 
     token = jwt.encode(
         { 
             "_id": user.id, 
             "username": user.username,
-            "exp": exp_time 
+            "exp": exp_time.timestamp()
         }, 
         settings.JWT_SECRET_KEY, 
         settings.ALGORITHM
@@ -68,3 +69,23 @@ def login_user(body:LoginSchema, db:Session):
         "data": user, 
         "token": token 
     }
+
+def is_authenticated(request: Request, db: Session):
+    try:
+        token = request.headers.get("authorization")
+        if not token:
+            raise HTTPException(401, "Token expired for user, login again")
+            
+        token = token.split(" ")[-1]
+
+        data = jwt.decode(token, settings.JWT_SECRET_KEY, settings.ALGORITHM)
+
+        user_id = data.get("_id")
+
+        user = db.query(UserModel).filter(UserModel.id == user_id).first()
+        if not user:
+            raise HTTPException(401, "No user found with this token")
+        
+        return { "status": True, "message": "User authentication successful!", "data": user }
+    except InvalidTokenError:
+        raise HTTPException(401, "User authentication failed!")
