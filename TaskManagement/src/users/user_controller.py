@@ -49,7 +49,7 @@ def login_user(body:LoginSchema, db:Session):
     if not verify_password(body.password, user.password):
         raise HTTPException(401, "Incorrect password for this user")        
 
-    exp_time = datetime.now() + timedelta(seconds=20)
+    exp_time = datetime.now() + timedelta(minutes=settings.EXP_TIME)
 
     token = jwt.encode(
         { 
