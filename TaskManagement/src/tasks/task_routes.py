@@ -15,17 +15,17 @@ def create_task(body: TaskSchema, db:Session = Depends(get_db), user: UserModel 
     return task_controller.create_task(body, db)
 
 @task_routes.get("/all-tasks", status_code=status.HTTP_200_OK)
-def get_tasks(db:Session = Depends(get_db)):
+def get_tasks(db:Session = Depends(get_db), user: UserModel = Depends(is_authenticated)):
     return task_controller.get_tasks(db)
 
 @task_routes.get("/get/{task_id}", status_code=status.HTTP_200_OK)
-def get_task_by_id(task_id: int, db:Session = Depends(get_db)):
+def get_task_by_id(task_id: int, db:Session = Depends(get_db), user: UserModel = Depends(is_authenticated)):
     return task_controller.get_task_by_id(task_id, db)
 
 @task_routes.put("/update/{task_id}", status_code=status.HTTP_201_CREATED)
-def update_task_by_id(body: TaskSchema, task_id: int,  db:Session = Depends(get_db)):
+def update_task_by_id(body: TaskSchema, task_id: int,  db:Session = Depends(get_db), user: UserModel = Depends(is_authenticated)):
     return task_controller.update_task_by_id(body, task_id, db)
 
 @task_routes.delete("/delete/{task_id}", status_code=status.HTTP_200_OK)
-def delete_task_by_id(task_id: int,  db:Session = Depends(get_db)):
+def delete_task_by_id(task_id: int,  db:Session = Depends(get_db), user: UserModel = Depends(is_authenticated)):
     return task_controller.delete_task_by_id(task_id, db)
