@@ -24,6 +24,6 @@ def is_authenticated(request: Request, db: Session = Depends(get_db)):
         if not user:
             raise HTTPException(401, "No user found with this token")
         
-        return { "status": True, "message": "User authentication successful!", "data": user }
+        return user
     except InvalidTokenError:
         raise HTTPException(401, "User authentication failed!")

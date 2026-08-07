@@ -4,12 +4,15 @@ from fastapi import HTTPException
 from src.tasks.task_dtos import TaskSchema
 from src.tasks.task_model import TaskModel
 
-def create_task(body: TaskSchema, db: Session):
+from src.users.user_model import UserModel
+
+def create_task(body: TaskSchema, db: Session, user:UserModel):
 
     new_task = TaskModel(
         title = body.title,
         description = body.description,
-        is_complete = body.is_complete
+        is_complete = body.is_complete,
+        user_id = user.id
     )
 
     db.add(new_task)
