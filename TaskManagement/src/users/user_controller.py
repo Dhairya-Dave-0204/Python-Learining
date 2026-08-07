@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-from fastapi import HTTPException, Request
+from fastapi import HTTPException, Request, BackgroundTasks
 from pwdlib import PasswordHash
 import jwt
 from datetime import datetime, timedelta
@@ -19,7 +19,7 @@ def get_password_hash(password):
 def verify_password(original, hashed):
     return password_hash.verify(original, hashed)
 
-async def register_user(body: UserSchema, db: Session):
+async def register_user(body: UserSchema, bg_task: BackgroundTasks, db: Session):
     is_user = db.query(UserModel).filter(UserModel.username == body.username).first()
     if is_user:
         raise HTTPException(400, "User already exists with this username")
@@ -41,8 +41,7 @@ async def register_user(body: UserSchema, db: Session):
     db.commit()
     db.refresh(new_user)
 
-    response = await send_mail([new_user.email])
-    print(response)
+    bg_task.add_task(send_mail, [new_user.email])
     
     return { "status": True, "message": "User registration successful!", "data": new_user }
 
