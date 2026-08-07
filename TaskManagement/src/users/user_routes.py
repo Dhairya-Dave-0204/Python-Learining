@@ -8,8 +8,8 @@ from src.users import user_controller
 user_router = APIRouter(prefix="/user")
 
 @user_router.post("/register", status_code=status.HTTP_201_CREATED)
-def register_user(body:UserSchema, db:Session = Depends(get_db)):
-    return user_controller.register_user(body, db)
+async def register_user(body:UserSchema, db:Session = Depends(get_db)):
+    return await user_controller.register_user(body, db)
 
 @user_router.post("/login", status_code= status.HTTP_200_OK)
 def login_user(body: LoginSchema, db:Session = Depends(get_db)):

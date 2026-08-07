@@ -3,9 +3,9 @@ from pydantic import BaseModel, EmailStr
 from typing import List
 
 conf = ConnectionConfig(
-    MAIL_USERNAME = "alastermoody962@email.com",
+    MAIL_USERNAME = "alastermoody962@gmail.com",
     MAIL_PASSWORD = "kkjd fijo ozvh qmki",
-    MAIL_FROM = "alastermoody962@email.com",
+    MAIL_FROM = "alastermoody962@gmail.com",
     MAIL_PORT = 587,
     MAIL_SERVER = "smtp.gmail.com",
     MAIL_FROM_NAME="Task Management",

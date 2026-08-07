@@ -9,6 +9,8 @@ from src.users.user_dtos import UserSchema, LoginSchema
 from src.users.user_model import UserModel
 from src.utils.settings import settings
 
+from src.utils.mail import send_mail
+
 password_hash = PasswordHash.recommended()
 
 def get_password_hash(password):
@@ -17,7 +19,7 @@ def get_password_hash(password):
 def verify_password(original, hashed):
     return password_hash.verify(original, hashed)
 
-def register_user(body: UserSchema, db: Session):
+async def register_user(body: UserSchema, db: Session):
     is_user = db.query(UserModel).filter(UserModel.username == body.username).first()
     if is_user:
         raise HTTPException(400, "User already exists with this username")
@@ -38,6 +40,9 @@ def register_user(body: UserSchema, db: Session):
     db.add(new_user)
     db.commit()
     db.refresh(new_user)
+
+    response = await send_mail([new_user.email])
+    print(response)
     
     return { "status": True, "message": "User registration successful!", "data": new_user }
 
