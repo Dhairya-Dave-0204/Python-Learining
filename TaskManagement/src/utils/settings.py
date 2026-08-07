@@ -13,13 +13,14 @@ class Setting(BaseSettings):
     ALGORITHM: str
     EXP_TIME: int
 
+    DATABASE_URL: str
+
     @property
     def DB_CONNECTION(self) -> str:
         """
             Dynamically builds the database URL.
             Format: postgresql://user:password@host:port/database
         """
-
         return f"postgresql://{self.POSTGRE_USER}:{self.POSTGRE_PASSWORD}@{self.POSTGRE_HOST}:{self.POSTGRE_PORT}/{self.POSTGRE_DB}"
 
 settings = Setting()
