@@ -21,15 +21,15 @@ def create_task(body: TaskSchema, db: Session, user:UserModel):
 
     return { "status": True, "message": "Task created successfully!", "data": new_task }
 
-def get_tasks(db:Session):
+def get_tasks(db:Session, user:UserModel):
     try:
-        tasks = db.query(TaskModel).all()
+        tasks = db.query(TaskModel).filter(TaskModel.user_id == user.id).all()
        
         return { "status": True, "message": "Tasks retrieved successfully!", "data": tasks }
     except:
        print("Error in getting all tasks")
 
-def get_task_by_id(task_id: int, db:Session):
+def get_task_by_id(task_id: int, db:Session, user: UserModel):
     task = db.query(TaskModel).get(task_id)
 
     if not task:
