@@ -37,10 +37,13 @@ def get_task_by_id(task_id: int, db:Session, user: UserModel):
 
     return { "status": True, "message": "Task retrieved successfully!", "data": task }
 
-def update_task_by_id(body: TaskSchema, task_id: int, db: Session):
+def update_task_by_id(body: TaskSchema, task_id: int, db: Session, user: UserModel):
     task = db.query(TaskModel).get(task_id)    
     if not task:
         raise HTTPException(404, detail= "No task found for this ID")
+
+    if task.user_id != user.id:
+        raise HTTPException(401, detail= "Not allowed to update the task")
 
     task.title = body.title
     task.description = body.description
@@ -52,10 +55,13 @@ def update_task_by_id(body: TaskSchema, task_id: int, db: Session):
 
     return { "status": True, "message": "Task updated successfully!", "data": task }
 
-def delete_task_by_id(task_id: int, db: Session):
+def delete_task_by_id(task_id: int, db: Session, user: UserModel):
     task = db.query(TaskModel).get(task_id)    
     if not task:
         raise HTTPException(404, detail= "No task found for this ID")
+
+    if task.user_id != user.id:
+        raise HTTPException(401, detail= "Not allowed to delete teh task")
 
     db.delete(task)
     db.commit()

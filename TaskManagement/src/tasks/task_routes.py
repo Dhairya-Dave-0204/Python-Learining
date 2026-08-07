@@ -24,8 +24,8 @@ def get_task_by_id(task_id: int, db:Session = Depends(get_db), user: UserModel =
 
 @task_routes.put("/update/{task_id}", status_code=status.HTTP_201_CREATED)
 def update_task_by_id(body: TaskSchema, task_id: int,  db:Session = Depends(get_db), user: UserModel = Depends(is_authenticated)):
-    return task_controller.update_task_by_id(body, task_id, db)
+    return task_controller.update_task_by_id(body, task_id, db, user)
 
 @task_routes.delete("/delete/{task_id}", status_code=status.HTTP_200_OK)
 def delete_task_by_id(task_id: int,  db:Session = Depends(get_db), user: UserModel = Depends(is_authenticated)):
-    return task_controller.delete_task_by_id(task_id, db)
+    return task_controller.delete_task_by_id(task_id, db, user)
